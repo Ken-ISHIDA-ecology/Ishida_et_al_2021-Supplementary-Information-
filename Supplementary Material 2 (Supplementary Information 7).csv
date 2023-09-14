@@ -1,0 +1,2145 @@
+plot.id,year,dist,region
+AP 1,2003,0,Eastern Hokkaido
+AP 1,2004,0.272727273,Eastern Hokkaido
+AP 1,2005,0.230769231,Eastern Hokkaido
+AP 1,2006,0.25,Eastern Hokkaido
+AP 1,2007,0.217391304,Eastern Hokkaido
+AP 1,2008,0.368421053,Eastern Hokkaido
+AP 1,2009,0.28,Eastern Hokkaido
+AP 1,2010,0.36,Eastern Hokkaido
+AP 1,2011,0.416666667,Eastern Hokkaido
+AP 1,2012,0.363636364,Eastern Hokkaido
+AP 1,2013,0.28,Eastern Hokkaido
+AP 1,2014,0.181818182,Eastern Hokkaido
+AP 1,2015,0.28,Eastern Hokkaido
+AP 1,2016,0.25,Eastern Hokkaido
+AP 1,2017,0.130434783,Eastern Hokkaido
+AP 1,2018,0.363636364,Eastern Hokkaido
+AP 2,2003,0,Eastern Hokkaido
+AP 2,2004,0.310344828,Eastern Hokkaido
+AP 2,2005,0.257142857,Eastern Hokkaido
+AP 2,2006,0.225806452,Eastern Hokkaido
+AP 2,2007,0.2,Eastern Hokkaido
+AP 2,2008,0.428571429,Eastern Hokkaido
+AP 2,2009,0.448275862,Eastern Hokkaido
+AP 2,2010,0.448275862,Eastern Hokkaido
+AP 2,2011,0.379310345,Eastern Hokkaido
+AP 2,2012,0.384615385,Eastern Hokkaido
+AP 2,2013,0.272727273,Eastern Hokkaido
+AP 2,2014,0.333333333,Eastern Hokkaido
+AP 2,2015,0.297297297,Eastern Hokkaido
+AP 2,2016,0.419354839,Eastern Hokkaido
+AP 2,2017,0.448275862,Eastern Hokkaido
+AP 2,2018,0.44,Eastern Hokkaido
+AP 4,2003,0,Eastern Hokkaido
+AP 4,2004,0.28,Eastern Hokkaido
+AP 4,2005,0.133333333,Eastern Hokkaido
+AP 4,2006,0.185185185,Eastern Hokkaido
+AP 4,2007,0.230769231,Eastern Hokkaido
+AP 4,2008,0.428571429,Eastern Hokkaido
+AP 4,2009,0.333333333,Eastern Hokkaido
+AP 4,2010,0.44,Eastern Hokkaido
+AP 4,2011,0.285714286,Eastern Hokkaido
+AP 4,2012,0.416666667,Eastern Hokkaido
+AP 4,2013,0.333333333,Eastern Hokkaido
+AP 4,2014,0.28,Eastern Hokkaido
+AP 4,2015,0.290322581,Eastern Hokkaido
+AP 4,2016,0.384615385,Eastern Hokkaido
+AP 4,2017,0.333333333,Eastern Hokkaido
+AP 4,2018,0.310344828,Eastern Hokkaido
+AP 5,2003,0,Eastern Hokkaido
+AP 5,2004,0.28,Eastern Hokkaido
+AP 5,2005,0.310344828,Eastern Hokkaido
+AP 5,2006,0.214285714,Eastern Hokkaido
+AP 5,2007,0.142857143,Eastern Hokkaido
+AP 5,2008,0.47826087,Eastern Hokkaido
+AP 5,2009,0.24137931,Eastern Hokkaido
+AP 5,2010,0.285714286,Eastern Hokkaido
+AP 5,2011,0.125,Eastern Hokkaido
+AP 5,2012,0.416666667,Eastern Hokkaido
+AP 5,2013,0.259259259,Eastern Hokkaido
+AP 5,2014,0.285714286,Eastern Hokkaido
+AP 5,2015,0.333333333,Eastern Hokkaido
+AP 5,2016,0.2,Eastern Hokkaido
+AP 5,2017,0.24137931,Eastern Hokkaido
+AP 5,2018,0.285714286,Eastern Hokkaido
+MB 1,2003,0,Eastern Hokkaido
+MB 1,2004,0.25,Eastern Hokkaido
+MB 1,2005,0.368421053,Eastern Hokkaido
+MB 1,2006,0.294117647,Eastern Hokkaido
+MB 1,2007,0.222222222,Eastern Hokkaido
+MB 1,2008,0.368421053,Eastern Hokkaido
+MB 1,2009,0.3,Eastern Hokkaido
+MB 1,2010,0.333333333,Eastern Hokkaido
+MB 1,2011,0.363636364,Eastern Hokkaido
+MB 1,2012,0.333333333,Eastern Hokkaido
+MB 1,2013,0.304347826,Eastern Hokkaido
+MB 1,2014,0.411764706,Eastern Hokkaido
+MB 1,2015,0.238095238,Eastern Hokkaido
+MB 1,2016,0.307692308,Eastern Hokkaido
+MB 1,2017,0.272727273,Eastern Hokkaido
+MB 1,2018,0.4,Eastern Hokkaido
+MB 2,2003,0,Eastern Hokkaido
+MB 2,2004,0.5,Eastern Hokkaido
+MB 2,2005,0.25,Eastern Hokkaido
+MB 2,2006,0.111111111,Eastern Hokkaido
+MB 2,2007,0.294117647,Eastern Hokkaido
+MB 2,2008,0.238095238,Eastern Hokkaido
+MB 2,2009,0.263157895,Eastern Hokkaido
+MB 2,2010,0.272727273,Eastern Hokkaido
+MB 2,2011,0.363636364,Eastern Hokkaido
+MB 2,2012,0.263157895,Eastern Hokkaido
+MB 2,2013,0.333333333,Eastern Hokkaido
+MB 2,2014,0.294117647,Eastern Hokkaido
+MB 2,2015,0.272727273,Eastern Hokkaido
+MB 2,2016,0.130434783,Eastern Hokkaido
+MB 2,2017,0.272727273,Eastern Hokkaido
+MB 2,2018,0.263157895,Eastern Hokkaido
+MB 4,2003,0,Eastern Hokkaido
+MB 4,2004,0.24137931,Eastern Hokkaido
+MB 4,2005,0.225806452,Eastern Hokkaido
+MB 4,2006,0.24137931,Eastern Hokkaido
+MB 4,2007,0.172413793,Eastern Hokkaido
+MB 4,2008,0.24137931,Eastern Hokkaido
+MB 4,2009,0.333333333,Eastern Hokkaido
+MB 4,2010,0.3125,Eastern Hokkaido
+MB 4,2011,0.290322581,Eastern Hokkaido
+MB 4,2012,0.24137931,Eastern Hokkaido
+MB 4,2013,0.294117647,Eastern Hokkaido
+MB 4,2014,0.357142857,Eastern Hokkaido
+MB 4,2015,0.272727273,Eastern Hokkaido
+MB 4,2016,0.290322581,Eastern Hokkaido
+MB 4,2017,0.266666667,Eastern Hokkaido
+MB 4,2018,0.310344828,Eastern Hokkaido
+MB 5,2003,0,Eastern Hokkaido
+MB 5,2004,0.272727273,Eastern Hokkaido
+MB 5,2005,0.166666667,Eastern Hokkaido
+MB 5,2006,0.2,Eastern Hokkaido
+MB 5,2007,0.090909091,Eastern Hokkaido
+MB 5,2008,0.230769231,Eastern Hokkaido
+MB 5,2009,0.166666667,Eastern Hokkaido
+MB 5,2010,0.375,Eastern Hokkaido
+MB 5,2011,0.142857143,Eastern Hokkaido
+MB 5,2012,0.230769231,Eastern Hokkaido
+MB 5,2013,0.333333333,Eastern Hokkaido
+MB 5,2014,0.25,Eastern Hokkaido
+MB 5,2015,0.368421053,Eastern Hokkaido
+MB 5,2016,0.368421053,Eastern Hokkaido
+MB 5,2017,0.2,Eastern Hokkaido
+MB 5,2018,0.333333333,Eastern Hokkaido
+MC 1,2003,0,Eastern Hokkaido
+MC 1,2004,0.076923077,Eastern Hokkaido
+MC 1,2005,0.222222222,Eastern Hokkaido
+MC 1,2006,0.125,Eastern Hokkaido
+MC 1,2007,0.25,Eastern Hokkaido
+MC 1,2008,0.076923077,Eastern Hokkaido
+MC 1,2009,0.066666667,Eastern Hokkaido
+MC 1,2010,0.142857143,Eastern Hokkaido
+MC 1,2011,0.2,Eastern Hokkaido
+MC 1,2012,0.2,Eastern Hokkaido
+MC 1,2013,0.294117647,Eastern Hokkaido
+MC 1,2014,0.142857143,Eastern Hokkaido
+MC 1,2015,0.142857143,Eastern Hokkaido
+MC 1,2016,0.294117647,Eastern Hokkaido
+MC 1,2017,0.25,Eastern Hokkaido
+MC 1,2018,0.2,Eastern Hokkaido
+MC 3,2003,0,Eastern Hokkaido
+MC 3,2004,0.2,Eastern Hokkaido
+MC 3,2005,0.230769231,Eastern Hokkaido
+MC 3,2006,0.130434783,Eastern Hokkaido
+MC 3,2007,0.217391304,Eastern Hokkaido
+MC 3,2008,0.130434783,Eastern Hokkaido
+MC 3,2009,0.166666667,Eastern Hokkaido
+MC 3,2010,0.2,Eastern Hokkaido
+MC 3,2011,0.333333333,Eastern Hokkaido
+MC 3,2012,0.28,Eastern Hokkaido
+MC 3,2013,0.2,Eastern Hokkaido
+MC 3,2014,0.130434783,Eastern Hokkaido
+MC 3,2015,0.24137931,Eastern Hokkaido
+MC 3,2016,0.285714286,Eastern Hokkaido
+MC 3,2017,0.28,Eastern Hokkaido
+MC 3,2018,0.304347826,Eastern Hokkaido
+MC 4,2003,0,Eastern Hokkaido
+MC 4,2004,0.172413793,Eastern Hokkaido
+MC 4,2005,0.2,Eastern Hokkaido
+MC 4,2006,0.1875,Eastern Hokkaido
+MC 4,2007,0.214285714,Eastern Hokkaido
+MC 4,2008,0.259259259,Eastern Hokkaido
+MC 4,2009,0.266666667,Eastern Hokkaido
+MC 4,2010,0.407407407,Eastern Hokkaido
+MC 4,2011,0.333333333,Eastern Hokkaido
+MC 4,2012,0.379310345,Eastern Hokkaido
+MC 4,2013,0.4,Eastern Hokkaido
+MC 4,2014,0.266666667,Eastern Hokkaido
+MC 4,2015,0.290322581,Eastern Hokkaido
+MC 4,2016,0.375,Eastern Hokkaido
+MC 4,2017,0.35483871,Eastern Hokkaido
+MC 4,2018,0.24137931,Eastern Hokkaido
+MC 5,2003,0,Eastern Hokkaido
+MC 5,2004,0.263157895,Eastern Hokkaido
+MC 5,2005,0.5,Eastern Hokkaido
+MC 5,2006,0.3,Eastern Hokkaido
+MC 5,2007,0.368421053,Eastern Hokkaido
+MC 5,2008,0.333333333,Eastern Hokkaido
+MC 5,2009,0.3,Eastern Hokkaido
+MC 5,2010,0.333333333,Eastern Hokkaido
+MC 5,2011,0.333333333,Eastern Hokkaido
+MC 5,2012,0.4,Eastern Hokkaido
+MC 5,2013,0.25,Eastern Hokkaido
+MC 5,2014,0.5,Eastern Hokkaido
+MC 5,2015,0.304347826,Eastern Hokkaido
+MC 5,2016,0.333333333,Eastern Hokkaido
+MC 5,2017,0.368421053,Eastern Hokkaido
+MC 5,2018,0.3,Eastern Hokkaido
+MZ 1,2003,0,Eastern Hokkaido
+MZ 1,2004,0.181818182,Eastern Hokkaido
+MZ 1,2005,0.238095238,Eastern Hokkaido
+MZ 1,2006,0.272727273,Eastern Hokkaido
+MZ 1,2007,0.142857143,Eastern Hokkaido
+MZ 1,2008,0.368421053,Eastern Hokkaido
+MZ 1,2009,0.272727273,Eastern Hokkaido
+MZ 1,2010,0.416666667,Eastern Hokkaido
+MZ 1,2011,0.304347826,Eastern Hokkaido
+MZ 1,2012,0.263157895,Eastern Hokkaido
+MZ 1,2013,0.238095238,Eastern Hokkaido
+MZ 1,2014,0.333333333,Eastern Hokkaido
+MZ 1,2015,0.5,Eastern Hokkaido
+MZ 1,2016,0.333333333,Eastern Hokkaido
+MZ 1,2017,0.3,Eastern Hokkaido
+MZ 1,2018,0.428571429,Eastern Hokkaido
+MZ 2,2003,0,Eastern Hokkaido
+MZ 2,2004,0.142857143,Eastern Hokkaido
+MZ 2,2005,0.090909091,Eastern Hokkaido
+MZ 2,2006,0.090909091,Eastern Hokkaido
+MZ 2,2007,0.1,Eastern Hokkaido
+MZ 2,2008,0.1,Eastern Hokkaido
+MZ 2,2009,0.3,Eastern Hokkaido
+MZ 2,2010,0.2,Eastern Hokkaido
+MZ 2,2011,0.333333333,Eastern Hokkaido
+MZ 2,2012,0.157894737,Eastern Hokkaido
+MZ 2,2013,0.2,Eastern Hokkaido
+MZ 2,2014,0.263157895,Eastern Hokkaido
+MZ 2,2015,0.304347826,Eastern Hokkaido
+MZ 2,2016,0.217391304,Eastern Hokkaido
+MZ 2,2017,0.263157895,Eastern Hokkaido
+MZ 2,2018,0.444444444,Eastern Hokkaido
+MZ 3,2003,0,Eastern Hokkaido
+MZ 3,2004,0.1,Eastern Hokkaido
+MZ 3,2005,0.238095238,Eastern Hokkaido
+MZ 3,2006,0.3,Eastern Hokkaido
+MZ 3,2007,0.222222222,Eastern Hokkaido
+MZ 3,2008,0.222222222,Eastern Hokkaido
+MZ 3,2009,0.3,Eastern Hokkaido
+MZ 3,2010,0.3,Eastern Hokkaido
+MZ 3,2011,0.272727273,Eastern Hokkaido
+MZ 3,2012,0.454545455,Eastern Hokkaido
+MZ 3,2013,0.157894737,Eastern Hokkaido
+MZ 3,2014,0.157894737,Eastern Hokkaido
+MZ 3,2015,0.333333333,Eastern Hokkaido
+MZ 3,2016,0.333333333,Eastern Hokkaido
+MZ 3,2017,0.3,Eastern Hokkaido
+MZ 3,2018,0.3,Eastern Hokkaido
+MZ 4,2003,0,Eastern Hokkaido
+MZ 4,2004,0.2,Eastern Hokkaido
+MZ 4,2005,0.307692308,Eastern Hokkaido
+MZ 4,2006,0.142857143,Eastern Hokkaido
+MZ 4,2007,0.157894737,Eastern Hokkaido
+MZ 4,2008,0.294117647,Eastern Hokkaido
+MZ 4,2009,0.363636364,Eastern Hokkaido
+MZ 4,2010,0.333333333,Eastern Hokkaido
+MZ 4,2011,0.28,Eastern Hokkaido
+MZ 4,2012,0.391304348,Eastern Hokkaido
+MZ 4,2013,0.272727273,Eastern Hokkaido
+MZ 4,2014,0.4,Eastern Hokkaido
+MZ 4,2015,0.391304348,Eastern Hokkaido
+MZ 4,2016,0.36,Eastern Hokkaido
+MZ 4,2017,0.368421053,Eastern Hokkaido
+MZ 4,2018,0.619047619,Eastern Hokkaido
+NN 1,2003,0,Eastern Hokkaido
+NN 1,2004,0.142857143,Eastern Hokkaido
+NN 1,2005,0.222222222,Eastern Hokkaido
+NN 1,2006,0.222222222,Eastern Hokkaido
+NN 1,2007,0.125,Eastern Hokkaido
+NN 1,2008,0.384615385,Eastern Hokkaido
+NN 1,2009,0.333333333,Eastern Hokkaido
+NN 1,2010,0.222222222,Eastern Hokkaido
+NN 1,2011,0.2,Eastern Hokkaido
+NN 1,2012,0.111111111,Eastern Hokkaido
+NN 1,2013,0.411764706,Eastern Hokkaido
+NN 1,2014,0.176470588,Eastern Hokkaido
+NN 1,2015,0.4,Eastern Hokkaido
+NN 1,2016,0.176470588,Eastern Hokkaido
+NN 1,2017,0.294117647,Eastern Hokkaido
+NN 1,2018,0.176470588,Eastern Hokkaido
+NN 2,2003,0,Eastern Hokkaido
+NN 2,2004,0,Eastern Hokkaido
+NN 2,2005,0.066666667,Eastern Hokkaido
+NN 2,2006,0.125,Eastern Hokkaido
+NN 2,2007,0.222222222,Eastern Hokkaido
+NN 2,2008,0.142857143,Eastern Hokkaido
+NN 2,2009,0.222222222,Eastern Hokkaido
+NN 2,2010,0.125,Eastern Hokkaido
+NN 2,2011,0.3,Eastern Hokkaido
+NN 2,2012,0.4,Eastern Hokkaido
+NN 2,2013,0.222222222,Eastern Hokkaido
+NN 2,2014,0.222222222,Eastern Hokkaido
+NN 2,2015,0.125,Eastern Hokkaido
+NN 2,2016,0.363636364,Eastern Hokkaido
+NN 2,2017,0.176470588,Eastern Hokkaido
+NN 2,2018,0.2,Eastern Hokkaido
+NN 3,2003,0,Eastern Hokkaido
+NN 3,2004,0.307692308,Eastern Hokkaido
+NN 3,2005,0.2,Eastern Hokkaido
+NN 3,2006,0.24137931,Eastern Hokkaido
+NN 3,2007,0.290322581,Eastern Hokkaido
+NN 3,2008,0.47826087,Eastern Hokkaido
+NN 3,2009,0.24137931,Eastern Hokkaido
+NN 3,2010,0.290322581,Eastern Hokkaido
+NN 3,2011,0.290322581,Eastern Hokkaido
+NN 3,2012,0.333333333,Eastern Hokkaido
+NN 3,2013,0.407407407,Eastern Hokkaido
+NN 3,2014,0.454545455,Eastern Hokkaido
+NN 3,2015,0.230769231,Eastern Hokkaido
+NN 3,2016,0.2,Eastern Hokkaido
+NN 3,2017,0.391304348,Eastern Hokkaido
+NN 3,2018,0.391304348,Eastern Hokkaido
+NN 4,2003,0,Eastern Hokkaido
+NN 4,2004,0.285714286,Eastern Hokkaido
+NN 4,2005,0.294117647,Eastern Hokkaido
+NN 4,2006,0.294117647,Eastern Hokkaido
+NN 4,2007,0.411764706,Eastern Hokkaido
+NN 4,2008,0.4,Eastern Hokkaido
+NN 4,2009,0.333333333,Eastern Hokkaido
+NN 4,2010,0.411764706,Eastern Hokkaido
+NN 4,2011,0.375,Eastern Hokkaido
+NN 4,2012,0.142857143,Eastern Hokkaido
+NN 4,2013,0.692307692,Eastern Hokkaido
+NN 4,2014,0.333333333,Eastern Hokkaido
+NN 4,2015,0.25,Eastern Hokkaido
+NN 4,2016,0.428571429,Eastern Hokkaido
+NN 4,2017,0.5,Eastern Hokkaido
+NN 4,2018,0.411764706,Eastern Hokkaido
+NN 5,2003,0,Eastern Hokkaido
+NN 5,2004,0.428571429,Eastern Hokkaido
+NN 5,2005,0.444444444,Eastern Hokkaido
+NN 5,2006,0.428571429,Eastern Hokkaido
+NN 5,2007,0.529411765,Eastern Hokkaido
+NN 5,2008,0.666666667,Eastern Hokkaido
+NN 5,2009,0.6,Eastern Hokkaido
+NN 5,2010,0.625,Eastern Hokkaido
+NN 5,2011,0.625,Eastern Hokkaido
+NN 5,2012,0.666666667,Eastern Hokkaido
+NN 5,2013,0.647058824,Eastern Hokkaido
+NN 5,2014,0.733333333,Eastern Hokkaido
+NN 5,2015,0.6,Eastern Hokkaido
+NN 5,2016,0.619047619,Eastern Hokkaido
+NN 5,2017,0.411764706,Eastern Hokkaido
+NN 5,2018,0.555555556,Eastern Hokkaido
+ES 4,2003,0,Southern Hokkaido
+ES 4,2004,0.163636364,Southern Hokkaido
+ES 4,2005,0.215686275,Southern Hokkaido
+ES 4,2006,0.178571429,Southern Hokkaido
+ES 4,2007,0.217391304,Southern Hokkaido
+ES 4,2008,0.208333333,Southern Hokkaido
+ES 4,2009,0.377777778,Southern Hokkaido
+ES 4,2010,0.25,Southern Hokkaido
+ES 4,2011,0.28,Southern Hokkaido
+ES 4,2012,0.320754717,Southern Hokkaido
+ES 4,2013,0.304347826,Southern Hokkaido
+ES 4,2014,0.265306122,Southern Hokkaido
+ES 4,2015,0.276595745,Southern Hokkaido
+ES 4,2016,0.254901961,Southern Hokkaido
+ES 4,2017,0.319148936,Southern Hokkaido
+ES 4,2018,0.230769231,Southern Hokkaido
+ES 5,2003,0,Southern Hokkaido
+ES 5,2004,0.266666667,Southern Hokkaido
+ES 5,2005,0.166666667,Southern Hokkaido
+ES 5,2006,0.166666667,Southern Hokkaido
+ES 5,2007,0.333333333,Southern Hokkaido
+ES 5,2008,0.361702128,Southern Hokkaido
+ES 5,2009,0.391304348,Southern Hokkaido
+ES 5,2010,0.423076923,Southern Hokkaido
+ES 5,2011,0.186440678,Southern Hokkaido
+ES 5,2012,0.321428571,Southern Hokkaido
+ES 5,2013,0.333333333,Southern Hokkaido
+ES 5,2014,0.283018868,Southern Hokkaido
+ES 5,2015,0.379310345,Southern Hokkaido
+ES 5,2016,0.366666667,Southern Hokkaido
+ES 5,2017,0.238095238,Southern Hokkaido
+ES 5,2018,0.381818182,Southern Hokkaido
+HR 1,2003,0,Southern Hokkaido
+HR 1,2004,0.238095238,Southern Hokkaido
+HR 1,2005,0.384615385,Southern Hokkaido
+HR 1,2006,0.351351351,Southern Hokkaido
+HR 1,2007,0.333333333,Southern Hokkaido
+HR 1,2008,0.517241379,Southern Hokkaido
+HR 1,2009,0.365853659,Southern Hokkaido
+HR 1,2010,0.428571429,Southern Hokkaido
+HR 1,2011,0.333333333,Southern Hokkaido
+HR 1,2012,0.365853659,Southern Hokkaido
+HR 1,2013,0.409090909,Southern Hokkaido
+HR 1,2014,0.282051282,Southern Hokkaido
+HR 1,2015,0.463414634,Southern Hokkaido
+HR 1,2016,0.333333333,Southern Hokkaido
+HR 1,2017,0.459459459,Southern Hokkaido
+HR 1,2018,0.405405405,Southern Hokkaido
+HR 2,2003,0,Southern Hokkaido
+HR 2,2004,0.181818182,Southern Hokkaido
+HR 2,2005,0.277777778,Southern Hokkaido
+HR 2,2006,0.25,Southern Hokkaido
+HR 2,2007,0.314285714,Southern Hokkaido
+HR 2,2008,0.282051282,Southern Hokkaido
+HR 2,2009,0.371428571,Southern Hokkaido
+HR 2,2010,0.243243243,Southern Hokkaido
+HR 2,2011,0.230769231,Southern Hokkaido
+HR 2,2012,0.294117647,Southern Hokkaido
+HR 2,2013,0.263157895,Southern Hokkaido
+HR 2,2014,0.297297297,Southern Hokkaido
+HR 2,2015,0.3,Southern Hokkaido
+HR 2,2016,0.315789474,Southern Hokkaido
+HR 2,2017,0.314285714,Southern Hokkaido
+HR 2,2018,0.277777778,Southern Hokkaido
+HR 3,2003,0,Southern Hokkaido
+HR 3,2004,0.210526316,Southern Hokkaido
+HR 3,2005,0.277777778,Southern Hokkaido
+HR 3,2006,0.210526316,Southern Hokkaido
+HR 3,2007,0.257142857,Southern Hokkaido
+HR 3,2008,0.176470588,Southern Hokkaido
+HR 3,2009,0.277777778,Southern Hokkaido
+HR 3,2010,0.263157895,Southern Hokkaido
+HR 3,2011,0.297297297,Southern Hokkaido
+HR 3,2012,0.294117647,Southern Hokkaido
+HR 3,2013,0.219512195,Southern Hokkaido
+HR 3,2014,0.315789474,Southern Hokkaido
+HR 3,2015,0.282051282,Southern Hokkaido
+HR 3,2016,0.317073171,Southern Hokkaido
+HR 3,2017,0.294117647,Southern Hokkaido
+HR 3,2018,0.263157895,Southern Hokkaido
+HR 4,2003,0,Southern Hokkaido
+HR 4,2004,0.454545455,Southern Hokkaido
+HR 4,2005,0.272727273,Southern Hokkaido
+HR 4,2006,0.36,Southern Hokkaido
+HR 4,2007,0.391304348,Southern Hokkaido
+HR 4,2008,0.4,Southern Hokkaido
+HR 4,2009,0.473684211,Southern Hokkaido
+HR 4,2010,0.416666667,Southern Hokkaido
+HR 4,2011,0.578947368,Southern Hokkaido
+HR 4,2012,0.363636364,Southern Hokkaido
+HR 4,2013,0.75,Southern Hokkaido
+HR 4,2014,0.454545455,Southern Hokkaido
+HR 4,2015,0.473684211,Southern Hokkaido
+HR 4,2016,0.44,Southern Hokkaido
+HR 4,2017,0.555555556,Southern Hokkaido
+HR 4,2018,0.428571429,Southern Hokkaido
+HR 5,2003,0,Southern Hokkaido
+HR 5,2004,0.225806452,Southern Hokkaido
+HR 5,2005,0.266666667,Southern Hokkaido
+HR 5,2006,0.310344828,Southern Hokkaido
+HR 5,2007,0.2,Southern Hokkaido
+HR 5,2008,0.307692308,Southern Hokkaido
+HR 5,2009,0.28,Southern Hokkaido
+HR 5,2010,0.3125,Southern Hokkaido
+HR 5,2011,0.25,Southern Hokkaido
+HR 5,2012,0.2,Southern Hokkaido
+HR 5,2013,0.290322581,Southern Hokkaido
+HR 5,2014,0.24137931,Southern Hokkaido
+HR 5,2015,0.310344828,Southern Hokkaido
+HR 5,2016,0.333333333,Southern Hokkaido
+HR 5,2017,0.24137931,Southern Hokkaido
+HR 5,2018,0.411764706,Southern Hokkaido
+IW 1,2003,0,Southern Hokkaido
+IW 1,2004,0.176470588,Southern Hokkaido
+IW 1,2005,0.192307692,Southern Hokkaido
+IW 1,2006,0.24137931,Southern Hokkaido
+IW 1,2007,0.395348837,Southern Hokkaido
+IW 1,2008,0.333333333,Southern Hokkaido
+IW 1,2009,0.32,Southern Hokkaido
+IW 1,2010,0.333333333,Southern Hokkaido
+IW 1,2011,0.260869565,Southern Hokkaido
+IW 1,2012,0.269230769,Southern Hokkaido
+IW 1,2013,0.265306122,Southern Hokkaido
+IW 1,2014,0.215686275,Southern Hokkaido
+IW 1,2015,0.409090909,Southern Hokkaido
+IW 1,2016,0.28,Southern Hokkaido
+IW 1,2017,0.291666667,Southern Hokkaido
+IW 1,2018,0.307692308,Southern Hokkaido
+IW 2,2003,0,Southern Hokkaido
+IW 2,2004,0.208333333,Southern Hokkaido
+IW 2,2005,0.294117647,Southern Hokkaido
+IW 2,2006,0.269230769,Southern Hokkaido
+IW 2,2007,0.32,Southern Hokkaido
+IW 2,2008,0.348837209,Southern Hokkaido
+IW 2,2009,0.307692308,Southern Hokkaido
+IW 2,2010,0.47826087,Southern Hokkaido
+IW 2,2011,0.319148936,Southern Hokkaido
+IW 2,2012,0.380952381,Southern Hokkaido
+IW 2,2013,0.405405405,Southern Hokkaido
+IW 2,2014,0.365853659,Southern Hokkaido
+IW 2,2015,0.459459459,Southern Hokkaido
+IW 2,2016,0.36,Southern Hokkaido
+IW 2,2017,0.304347826,Southern Hokkaido
+IW 2,2018,0.45,Southern Hokkaido
+IW 3,2003,0,Southern Hokkaido
+IW 3,2004,0.161290323,Southern Hokkaido
+IW 3,2005,0.333333333,Southern Hokkaido
+IW 3,2006,0.272727273,Southern Hokkaido
+IW 3,2007,0.352941176,Southern Hokkaido
+IW 3,2008,0.393939394,Southern Hokkaido
+IW 3,2009,0.24137931,Southern Hokkaido
+IW 3,2010,0.375,Southern Hokkaido
+IW 3,2011,0.25,Southern Hokkaido
+IW 3,2012,0.3125,Southern Hokkaido
+IW 3,2013,0.314285714,Southern Hokkaido
+IW 3,2014,0.444444444,Southern Hokkaido
+IW 3,2015,0.483870968,Southern Hokkaido
+IW 3,2016,0.4375,Southern Hokkaido
+IW 3,2017,0.333333333,Southern Hokkaido
+IW 3,2018,0.421052632,Southern Hokkaido
+IW 4,2003,0,Southern Hokkaido
+IW 4,2004,0.155555556,Southern Hokkaido
+IW 4,2005,0.227272727,Southern Hokkaido
+IW 4,2006,0.272727273,Southern Hokkaido
+IW 4,2007,0.259259259,Southern Hokkaido
+IW 4,2008,0.272727273,Southern Hokkaido
+IW 4,2009,0.234042553,Southern Hokkaido
+IW 4,2010,0.346938776,Southern Hokkaido
+IW 4,2011,0.2,Southern Hokkaido
+IW 4,2012,0.302325581,Southern Hokkaido
+IW 4,2013,0.348837209,Southern Hokkaido
+IW 4,2014,0.346938776,Southern Hokkaido
+IW 4,2015,0.304347826,Southern Hokkaido
+IW 4,2016,0.254901961,Southern Hokkaido
+IW 4,2017,0.333333333,Southern Hokkaido
+IW 4,2018,0.333333333,Southern Hokkaido
+SS 4,2003,0,Southern Hokkaido
+SS 4,2004,0.2,Southern Hokkaido
+SS 4,2005,0.4,Southern Hokkaido
+SS 4,2006,0.259259259,Southern Hokkaido
+SS 4,2007,0.2,Southern Hokkaido
+SS 4,2008,0.238095238,Southern Hokkaido
+SS 4,2009,0.333333333,Southern Hokkaido
+SS 4,2010,0.2,Southern Hokkaido
+SS 4,2011,0.307692308,Southern Hokkaido
+SS 4,2012,0.384615385,Southern Hokkaido
+SS 4,2013,0.357142857,Southern Hokkaido
+SS 4,2014,0.259259259,Southern Hokkaido
+SS 4,2015,0.304347826,Southern Hokkaido
+SS 4,2016,0.285714286,Southern Hokkaido
+SS 4,2017,0.304347826,Southern Hokkaido
+SS 4,2018,0.333333333,Southern Hokkaido
+SS 5,2003,0,Southern Hokkaido
+SS 5,2004,0.142857143,Southern Hokkaido
+SS 5,2005,0.25,Southern Hokkaido
+SS 5,2006,0.4,Southern Hokkaido
+SS 5,2007,0.142857143,Southern Hokkaido
+SS 5,2008,0.6,Southern Hokkaido
+SS 5,2009,0.25,Southern Hokkaido
+SS 5,2010,0.272727273,Southern Hokkaido
+SS 5,2011,0.4,Southern Hokkaido
+SS 5,2012,0.4,Southern Hokkaido
+SS 5,2013,0.333333333,Southern Hokkaido
+SS 5,2014,0.4,Southern Hokkaido
+SS 5,2015,0.333333333,Southern Hokkaido
+SS 5,2016,0.4,Southern Hokkaido
+SS 5,2017,0.428571429,Southern Hokkaido
+SS 5,2018,0.142857143,Southern Hokkaido
+US 1,2003,0,Southern Hokkaido
+US 1,2004,0.230769231,Southern Hokkaido
+US 1,2005,0.166666667,Southern Hokkaido
+US 1,2006,0.090909091,Southern Hokkaido
+US 1,2007,0.2,Southern Hokkaido
+US 1,2008,0.2,Southern Hokkaido
+US 1,2009,0.111111111,Southern Hokkaido
+US 1,2010,0.166666667,Southern Hokkaido
+US 1,2011,0.111111111,Southern Hokkaido
+US 1,2012,0.2,Southern Hokkaido
+US 1,2013,0.285714286,Southern Hokkaido
+US 1,2014,0.230769231,Southern Hokkaido
+US 1,2015,0.230769231,Southern Hokkaido
+US 1,2016,0.428571429,Southern Hokkaido
+US 1,2017,0,Southern Hokkaido
+US 1,2018,0.333333333,Southern Hokkaido
+US 2,2003,0,Southern Hokkaido
+US 2,2004,0.2,Southern Hokkaido
+US 2,2005,0.384615385,Southern Hokkaido
+US 2,2006,0.4,Southern Hokkaido
+US 2,2007,0.333333333,Southern Hokkaido
+US 2,2008,0.310344828,Southern Hokkaido
+US 2,2009,0.391304348,Southern Hokkaido
+US 2,2010,0.310344828,Southern Hokkaido
+US 2,2011,0.379310345,Southern Hokkaido
+US 2,2012,0.310344828,Southern Hokkaido
+US 2,2013,0.1875,Southern Hokkaido
+US 2,2014,0.307692308,Southern Hokkaido
+US 2,2015,0.266666667,Southern Hokkaido
+US 2,2016,0.266666667,Southern Hokkaido
+US 2,2017,0.28,Southern Hokkaido
+US 2,2018,0.384615385,Southern Hokkaido
+US 3,2003,0,Southern Hokkaido
+US 3,2004,0.1875,Southern Hokkaido
+US 3,2005,0.212121212,Southern Hokkaido
+US 3,2006,0.225806452,Southern Hokkaido
+US 3,2007,0.333333333,Southern Hokkaido
+US 3,2008,0.24137931,Southern Hokkaido
+US 3,2009,0.357142857,Southern Hokkaido
+US 3,2010,0.172413793,Southern Hokkaido
+US 3,2011,0.375,Southern Hokkaido
+US 3,2012,0.388888889,Southern Hokkaido
+US 3,2013,0.257142857,Southern Hokkaido
+US 3,2014,0.290322581,Southern Hokkaido
+US 3,2015,0.24137931,Southern Hokkaido
+US 3,2016,0.25,Southern Hokkaido
+US 3,2017,0.24137931,Southern Hokkaido
+US 3,2018,0.393939394,Southern Hokkaido
+US 4,2003,0,Southern Hokkaido
+US 4,2004,0.2,Southern Hokkaido
+US 4,2005,0.217391304,Southern Hokkaido
+US 4,2006,0.217391304,Southern Hokkaido
+US 4,2007,0.2,Southern Hokkaido
+US 4,2008,0.636363636,Southern Hokkaido
+US 4,2009,0.234042553,Southern Hokkaido
+US 4,2010,0.234042553,Southern Hokkaido
+US 4,2011,0.215686275,Southern Hokkaido
+US 4,2012,0.276595745,Southern Hokkaido
+US 4,2013,0.2,Southern Hokkaido
+US 4,2014,0.347826087,Southern Hokkaido
+US 4,2015,0.234042553,Southern Hokkaido
+US 4,2016,0.306122449,Southern Hokkaido
+US 4,2017,0.347826087,Southern Hokkaido
+US 4,2018,0.32,Southern Hokkaido
+US 5,2003,0,Southern Hokkaido
+US 5,2004,0.083333333,Southern Hokkaido
+US 5,2005,0.217391304,Southern Hokkaido
+US 5,2006,0.25,Southern Hokkaido
+US 5,2007,0.368421053,Southern Hokkaido
+US 5,2008,0.684210526,Southern Hokkaido
+US 5,2009,0.454545455,Southern Hokkaido
+US 5,2010,0.230769231,Southern Hokkaido
+US 5,2011,0.333333333,Southern Hokkaido
+US 5,2012,0.307692308,Southern Hokkaido
+US 5,2013,0.2,Southern Hokkaido
+US 5,2014,0.391304348,Southern Hokkaido
+US 5,2015,0.333333333,Southern Hokkaido
+US 5,2016,0.416666667,Southern Hokkaido
+US 5,2017,0.555555556,Southern Hokkaido
+US 5,2018,0.357142857,Southern Hokkaido
+AG 1,2003,0,Rikuchu
+AG 1,2004,0.351351351,Rikuchu
+AG 1,2005,0.333333333,Rikuchu
+AG 1,2006,0.35,Rikuchu
+AG 1,2007,0.4375,Rikuchu
+AG 1,2008,0.375,Rikuchu
+AG 1,2009,0.4,Rikuchu
+AG 1,2010,0.485714286,Rikuchu
+AG 1,2011,0.428571429,Rikuchu
+AG 1,2012,0.526315789,Rikuchu
+AG 1,2013,0.56097561,Rikuchu
+AG 1,2014,0.6,Rikuchu
+AG 1,2015,0.56097561,Rikuchu
+AG 1,2016,0.513513514,Rikuchu
+AG 1,2017,0.5625,Rikuchu
+AG 1,2018,0.485714286,Rikuchu
+AG 2,2003,0,Rikuchu
+AG 2,2004,0.04,Rikuchu
+AG 2,2005,0.304347826,Rikuchu
+AG 2,2006,0.266666667,Rikuchu
+AG 2,2007,0.259259259,Rikuchu
+AG 2,2008,0.307692308,Rikuchu
+AG 2,2009,0.28,Rikuchu
+AG 2,2010,0.384615385,Rikuchu
+AG 2,2011,0.44,Rikuchu
+AG 2,2012,0.517241379,Rikuchu
+AG 2,2013,0.419354839,Rikuchu
+AG 2,2014,0.407407407,Rikuchu
+AG 2,2015,0.44,Rikuchu
+AG 2,2016,0.5,Rikuchu
+AG 2,2017,0.407407407,Rikuchu
+AG 2,2018,0.304347826,Rikuchu
+AG 3,2003,0,Rikuchu
+AG 3,2004,0.222222222,Rikuchu
+AG 3,2005,0.238095238,Rikuchu
+AG 3,2006,0.222222222,Rikuchu
+AG 3,2007,0.176470588,Rikuchu
+AG 3,2008,0.333333333,Rikuchu
+AG 3,2009,0.285714286,Rikuchu
+AG 3,2010,0.368421053,Rikuchu
+AG 3,2011,0.555555556,Rikuchu
+AG 3,2012,0.5,Rikuchu
+AG 3,2013,0.555555556,Rikuchu
+AG 3,2014,0.333333333,Rikuchu
+AG 3,2015,0.565217391,Rikuchu
+AG 3,2016,0.545454545,Rikuchu
+AG 3,2017,0.565217391,Rikuchu
+AG 3,2018,0.5,Rikuchu
+AG 4,2003,0,Rikuchu
+AG 4,2004,0.25,Rikuchu
+AG 4,2005,0.517241379,Rikuchu
+AG 4,2006,0.36,Rikuchu
+AG 4,2007,0.36,Rikuchu
+AG 4,2008,0.391304348,Rikuchu
+AG 4,2009,0.304347826,Rikuchu
+AG 4,2010,0.481481481,Rikuchu
+AG 4,2011,0.75,Rikuchu
+AG 4,2012,0.483870968,Rikuchu
+AG 4,2013,0.538461538,Rikuchu
+AG 4,2014,0.655172414,Rikuchu
+AG 4,2015,0.542857143,Rikuchu
+AG 4,2016,0.512195122,Rikuchu
+AG 4,2017,0.428571429,Rikuchu
+AG 4,2018,0.448275862,Rikuchu
+AG 5,2003,0,Rikuchu
+AG 5,2004,0.4,Rikuchu
+AG 5,2005,0.45,Rikuchu
+AG 5,2006,0.428571429,Rikuchu
+AG 5,2007,0.52173913,Rikuchu
+AG 5,2008,0.454545455,Rikuchu
+AG 5,2009,0.487179487,Rikuchu
+AG 5,2010,0.459459459,Rikuchu
+AG 5,2011,0.533333333,Rikuchu
+AG 5,2012,0.6,Rikuchu
+AG 5,2013,0.65,Rikuchu
+AG 5,2014,0.666666667,Rikuchu
+AG 5,2015,0.5625,Rikuchu
+AG 5,2016,0.612903226,Rikuchu
+AG 5,2017,0.4375,Rikuchu
+AG 5,2018,0.466666667,Rikuchu
+AK 1,2003,0,Rikuchu
+AK 1,2004,0.257142857,Rikuchu
+AK 1,2005,0.263157895,Rikuchu
+AK 1,2006,0.384615385,Rikuchu
+AK 1,2007,0.405405405,Rikuchu
+AK 1,2008,0.333333333,Rikuchu
+AK 1,2009,0.388888889,Rikuchu
+AK 1,2010,0.405405405,Rikuchu
+AK 1,2011,0.703703704,Rikuchu
+AK 1,2012,0.5,Rikuchu
+AK 1,2013,0.444444444,Rikuchu
+AK 1,2014,0.405405405,Rikuchu
+AK 1,2015,0.375,Rikuchu
+AK 1,2016,0.371428571,Rikuchu
+AK 1,2017,0.388888889,Rikuchu
+AK 1,2018,0.35483871,Rikuchu
+AK 5,2003,0,Rikuchu
+AK 5,2004,0.28,Rikuchu
+AK 5,2005,0.357142857,Rikuchu
+AK 5,2006,0.333333333,Rikuchu
+AK 5,2007,0.481481481,Rikuchu
+AK 5,2008,0.419354839,Rikuchu
+AK 5,2009,0.5,Rikuchu
+AK 5,2010,0.538461538,Rikuchu
+AK 5,2011,0.619047619,Rikuchu
+AK 5,2012,0.483870968,Rikuchu
+AK 5,2013,0.642857143,Rikuchu
+AK 5,2014,0.642857143,Rikuchu
+AK 5,2015,0.571428571,Rikuchu
+AK 5,2016,0.428571429,Rikuchu
+AK 5,2017,0.5,Rikuchu
+AK 5,2018,0.548387097,Rikuchu
+KG 1,2003,0,Rikuchu
+KG 1,2004,0.181818182,Rikuchu
+KG 1,2005,0.217391304,Rikuchu
+KG 1,2006,0.28,Rikuchu
+KG 1,2007,0.411764706,Rikuchu
+KG 1,2008,0.375,Rikuchu
+KG 1,2009,0.2,Rikuchu
+KG 1,2010,0.36,Rikuchu
+KG 1,2011,0.571428571,Rikuchu
+KG 1,2012,0.368421053,Rikuchu
+KG 1,2013,0.333333333,Rikuchu
+KG 1,2014,0.363636364,Rikuchu
+KG 1,2015,0.448275862,Rikuchu
+KG 1,2016,0.466666667,Rikuchu
+KG 1,2017,0.448275862,Rikuchu
+KG 1,2018,0.391304348,Rikuchu
+KG 2,2003,0,Rikuchu
+KG 2,2004,0.333333333,Rikuchu
+KG 2,2005,0.428571429,Rikuchu
+KG 2,2006,0.310344828,Rikuchu
+KG 2,2007,0.407407407,Rikuchu
+KG 2,2008,0.36,Rikuchu
+KG 2,2009,0.333333333,Rikuchu
+KG 2,2010,0.384615385,Rikuchu
+KG 2,2011,0.545454545,Rikuchu
+KG 2,2012,0.448275862,Rikuchu
+KG 2,2013,0.448275862,Rikuchu
+KG 2,2014,0.428571429,Rikuchu
+KG 2,2015,0.428571429,Rikuchu
+KG 2,2016,0.411764706,Rikuchu
+KG 2,2017,0.485714286,Rikuchu
+KG 2,2018,0.35483871,Rikuchu
+KG 3,2003,0,Rikuchu
+KG 3,2004,0.230769231,Rikuchu
+KG 3,2005,0.36,Rikuchu
+KG 3,2006,0.307692308,Rikuchu
+KG 3,2007,0.44,Rikuchu
+KG 3,2008,0.25,Rikuchu
+KG 3,2009,0.44,Rikuchu
+KG 3,2010,0.481481481,Rikuchu
+KG 3,2011,0.444444444,Rikuchu
+KG 3,2012,0.6,Rikuchu
+KG 3,2013,0.555555556,Rikuchu
+KG 3,2014,0.523809524,Rikuchu
+KG 3,2015,0.481481481,Rikuchu
+KG 3,2016,0.35483871,Rikuchu
+KG 3,2017,0.466666667,Rikuchu
+KG 3,2018,0.47826087,Rikuchu
+KG 4,2003,0,Rikuchu
+KG 4,2004,0.28,Rikuchu
+KG 4,2005,0.357142857,Rikuchu
+KG 4,2006,0.481481481,Rikuchu
+KG 4,2007,0.428571429,Rikuchu
+KG 4,2008,0.384615385,Rikuchu
+KG 4,2009,0.416666667,Rikuchu
+KG 4,2010,0.448275862,Rikuchu
+KG 4,2011,0.5,Rikuchu
+KG 4,2012,0.407407407,Rikuchu
+KG 4,2013,0.555555556,Rikuchu
+KG 4,2014,0.47826087,Rikuchu
+KG 4,2015,0.448275862,Rikuchu
+KG 4,2016,0.5,Rikuchu
+KG 4,2017,0.407407407,Rikuchu
+KG 4,2018,0.461538462,Rikuchu
+KG 5,2003,0,Rikuchu
+KG 5,2004,0.142857143,Rikuchu
+KG 5,2005,0.25,Rikuchu
+KG 5,2006,0.315789474,Rikuchu
+KG 5,2007,0.235294118,Rikuchu
+KG 5,2008,0.333333333,Rikuchu
+KG 5,2009,0.2,Rikuchu
+KG 5,2010,0.263157895,Rikuchu
+KG 5,2011,0.6,Rikuchu
+KG 5,2012,0.444444444,Rikuchu
+KG 5,2013,0.517241379,Rikuchu
+KG 5,2014,0.405405405,Rikuchu
+KG 5,2015,0.384615385,Rikuchu
+KG 5,2016,0.405405405,Rikuchu
+KG 5,2017,0.333333333,Rikuchu
+KG 5,2018,0.4,Rikuchu
+MJ 1,2003,0,Rikuchu
+MJ 1,2004,0.166666667,Rikuchu
+MJ 1,2005,0.297297297,Rikuchu
+MJ 1,2006,0.333333333,Rikuchu
+MJ 1,2007,0.333333333,Rikuchu
+MJ 1,2008,0.533333333,Rikuchu
+MJ 1,2009,0.411764706,Rikuchu
+MJ 1,2010,0.333333333,Rikuchu
+MJ 1,2011,0.52,Rikuchu
+MJ 1,2012,0.517241379,Rikuchu
+MJ 1,2013,0.454545455,Rikuchu
+MJ 1,2014,0.384615385,Rikuchu
+MJ 1,2015,0.393939394,Rikuchu
+MJ 1,2016,0.483870968,Rikuchu
+MJ 1,2017,0.466666667,Rikuchu
+MJ 1,2018,0.533333333,Rikuchu
+MJ 2,2003,0,Rikuchu
+MJ 2,2004,0.161290323,Rikuchu
+MJ 2,2005,0.212121212,Rikuchu
+MJ 2,2006,0.411764706,Rikuchu
+MJ 2,2007,0.393939394,Rikuchu
+MJ 2,2008,0.384615385,Rikuchu
+MJ 2,2009,0.419354839,Rikuchu
+MJ 2,2010,0.352941176,Rikuchu
+MJ 2,2011,0.448275862,Rikuchu
+MJ 2,2012,0.4375,Rikuchu
+MJ 2,2013,0.444444444,Rikuchu
+MJ 2,2014,0.375,Rikuchu
+MJ 2,2015,0.5,Rikuchu
+MJ 2,2016,0.405405405,Rikuchu
+MJ 2,2017,0.333333333,Rikuchu
+MJ 2,2018,0.4375,Rikuchu
+MJ 3,2003,0,Rikuchu
+MJ 3,2004,0.25,Rikuchu
+MJ 3,2005,0.4,Rikuchu
+MJ 3,2006,0.365853659,Rikuchu
+MJ 3,2007,0.538461538,Rikuchu
+MJ 3,2008,0.529411765,Rikuchu
+MJ 3,2009,0.428571429,Rikuchu
+MJ 3,2010,0.473684211,Rikuchu
+MJ 3,2011,0.571428571,Rikuchu
+MJ 3,2012,0.5625,Rikuchu
+MJ 3,2013,0.6,Rikuchu
+MJ 3,2014,0.567567568,Rikuchu
+MJ 3,2015,0.612903226,Rikuchu
+MJ 3,2016,0.621621622,Rikuchu
+MJ 3,2017,0.58974359,Rikuchu
+MJ 3,2018,0.705882353,Rikuchu
+MJ 4,2003,0,Rikuchu
+MJ 4,2004,0.222222222,Rikuchu
+MJ 4,2005,0.3,Rikuchu
+MJ 4,2006,0.365853659,Rikuchu
+MJ 4,2007,0.473684211,Rikuchu
+MJ 4,2008,0.365853659,Rikuchu
+MJ 4,2009,0.243243243,Rikuchu
+MJ 4,2010,0.315789474,Rikuchu
+MJ 4,2011,0.642857143,Rikuchu
+MJ 4,2012,0.529411765,Rikuchu
+MJ 4,2013,0.513513514,Rikuchu
+MJ 4,2014,0.588235294,Rikuchu
+MJ 4,2015,0.517241379,Rikuchu
+MJ 4,2016,0.513513514,Rikuchu
+MJ 4,2017,0.5,Rikuchu
+MJ 4,2018,0.741935484,Rikuchu
+MJ 5,2003,0,Rikuchu
+MJ 5,2004,0.185185185,Rikuchu
+MJ 5,2005,0.24137931,Rikuchu
+MJ 5,2006,0.24137931,Rikuchu
+MJ 5,2007,0.310344828,Rikuchu
+MJ 5,2008,0.230769231,Rikuchu
+MJ 5,2009,0.259259259,Rikuchu
+MJ 5,2010,0.466666667,Rikuchu
+MJ 5,2011,0.5,Rikuchu
+MJ 5,2012,0.52,Rikuchu
+MJ 5,2013,0.379310345,Rikuchu
+MJ 5,2014,0.52,Rikuchu
+MJ 5,2015,0.416666667,Rikuchu
+MJ 5,2016,0.4375,Rikuchu
+MJ 5,2017,0.384615385,Rikuchu
+MJ 5,2018,0.555555556,Rikuchu
+OR 1,2003,0,Rikuchu
+OR 1,2004,0.181818182,Rikuchu
+OR 1,2005,0.25,Rikuchu
+OR 1,2006,0.461538462,Rikuchu
+OR 1,2007,0.307692308,Rikuchu
+OR 1,2008,0.217391304,Rikuchu
+OR 1,2009,0.333333333,Rikuchu
+OR 1,2010,0.217391304,Rikuchu
+OR 1,2011,0.466666667,Rikuchu
+OR 1,2012,0.523809524,Rikuchu
+OR 1,2013,0.666666667,Rikuchu
+OR 1,2014,0.454545455,Rikuchu
+OR 1,2015,0.5,Rikuchu
+OR 1,2016,0.363636364,Rikuchu
+OR 1,2017,0.454545455,Rikuchu
+OR 1,2018,0.368421053,Rikuchu
+OR 2,2003,0,Rikuchu
+OR 2,2004,0.35483871,Rikuchu
+OR 2,2005,0.272727273,Rikuchu
+OR 2,2006,0.3125,Rikuchu
+OR 2,2007,0.485714286,Rikuchu
+OR 2,2008,0.3125,Rikuchu
+OR 2,2009,0.481481481,Rikuchu
+OR 2,2010,0.3125,Rikuchu
+OR 2,2011,0.379310345,Rikuchu
+OR 2,2012,0.483870968,Rikuchu
+OR 2,2013,0.470588235,Rikuchu
+OR 2,2014,0.454545455,Rikuchu
+OR 2,2015,0.4375,Rikuchu
+OR 2,2016,0.575757576,Rikuchu
+OR 2,2017,0.533333333,Rikuchu
+OR 2,2018,0.483870968,Rikuchu
+OR 3,2003,0,Rikuchu
+OR 3,2004,0.230769231,Rikuchu
+OR 3,2005,0.44,Rikuchu
+OR 3,2006,0.428571429,Rikuchu
+OR 3,2007,0.407407407,Rikuchu
+OR 3,2008,0.44,Rikuchu
+OR 3,2009,0.36,Rikuchu
+OR 3,2010,0.36,Rikuchu
+OR 3,2011,0.473684211,Rikuchu
+OR 3,2012,0.428571429,Rikuchu
+OR 3,2013,0.6,Rikuchu
+OR 3,2014,0.52,Rikuchu
+OR 3,2015,0.416666667,Rikuchu
+OR 3,2016,0.52,Rikuchu
+OR 3,2017,0.571428571,Rikuchu
+OR 3,2018,0.548387097,Rikuchu
+OR 4,2003,0,Rikuchu
+OR 4,2004,0.157894737,Rikuchu
+OR 4,2005,0.4,Rikuchu
+OR 4,2006,0.3,Rikuchu
+OR 4,2007,0.263157895,Rikuchu
+OR 4,2008,0.333333333,Rikuchu
+OR 4,2009,0.304347826,Rikuchu
+OR 4,2010,0.4,Rikuchu
+OR 4,2011,0.571428571,Rikuchu
+OR 4,2012,0.473684211,Rikuchu
+OR 4,2013,0.583333333,Rikuchu
+OR 4,2014,0.6,Rikuchu
+OR 4,2015,0.461538462,Rikuchu
+OR 4,2016,0.444444444,Rikuchu
+OR 4,2017,0.36,Rikuchu
+OR 4,2018,0.555555556,Rikuchu
+CK 1,2003,0,Boso
+CK 1,2004,0.151515152,Boso
+CK 1,2005,0.161290323,Boso
+CK 1,2006,0.257142857,Boso
+CK 1,2007,0.290322581,Boso
+CK 1,2008,0.2,Boso
+CK 1,2009,0.235294118,Boso
+CK 1,2010,0.212121212,Boso
+CK 1,2011,0.444444444,Boso
+CK 1,2012,0.421052632,Boso
+CK 1,2013,0.4,Boso
+CK 1,2014,0.393939394,Boso
+CK 1,2015,0.371428571,Boso
+CK 1,2016,0.444444444,Boso
+CK 1,2017,0.294117647,Boso
+CK 1,2018,0.290322581,Boso
+CK 2,2003,0,Boso
+CK 2,2004,0.235294118,Boso
+CK 2,2005,0.166666667,Boso
+CK 2,2006,0.393939394,Boso
+CK 2,2007,0.388888889,Boso
+CK 2,2008,0.290322581,Boso
+CK 2,2009,0.243243243,Boso
+CK 2,2010,0.371428571,Boso
+CK 2,2011,0.277777778,Boso
+CK 2,2012,0.2,Boso
+CK 2,2013,0.4,Boso
+CK 2,2014,0.333333333,Boso
+CK 2,2015,0.315789474,Boso
+CK 2,2016,0.315789474,Boso
+CK 2,2017,0.230769231,Boso
+CK 2,2018,0.333333333,Boso
+CK 4,2003,0,Boso
+CK 4,2004,0.24137931,Boso
+CK 4,2005,0.133333333,Boso
+CK 4,2006,0.333333333,Boso
+CK 4,2007,0.333333333,Boso
+CK 4,2008,0.35483871,Boso
+CK 4,2009,0.333333333,Boso
+CK 4,2010,0.35483871,Boso
+CK 4,2011,0.375,Boso
+CK 4,2012,0.3125,Boso
+CK 4,2013,0.419354839,Boso
+CK 4,2014,0.428571429,Boso
+CK 4,2015,0.375,Boso
+CK 4,2016,0.357142857,Boso
+CK 4,2017,0.333333333,Boso
+CK 4,2018,0.36,Boso
+CK 5,2003,0,Boso
+CK 5,2004,0.1875,Boso
+CK 5,2005,0.290322581,Boso
+CK 5,2006,0.4375,Boso
+CK 5,2007,0.466666667,Boso
+CK 5,2008,0.333333333,Boso
+CK 5,2009,0.294117647,Boso
+CK 5,2010,0.257142857,Boso
+CK 5,2011,0.357142857,Boso
+CK 5,2012,0.294117647,Boso
+CK 5,2013,0.257142857,Boso
+CK 5,2014,0.4375,Boso
+CK 5,2015,0.314285714,Boso
+CK 5,2016,0.461538462,Boso
+CK 5,2017,0.371428571,Boso
+CK 5,2018,0.36,Boso
+EM 1,2003,0,Boso
+EM 1,2004,0.172413793,Boso
+EM 1,2005,0.214285714,Boso
+EM 1,2006,0.25,Boso
+EM 1,2007,0.47826087,Boso
+EM 1,2008,0.307692308,Boso
+EM 1,2009,0.103448276,Boso
+EM 1,2010,0.24137931,Boso
+EM 1,2011,0.285714286,Boso
+EM 1,2012,0.161290323,Boso
+EM 1,2013,0.35483871,Boso
+EM 1,2014,0.214285714,Boso
+EM 1,2015,0.172413793,Boso
+EM 1,2016,0.333333333,Boso
+EM 1,2017,0.28,Boso
+EM 1,2018,0.230769231,Boso
+EM 2,2003,0,Boso
+EM 2,2004,0.214285714,Boso
+EM 2,2005,0.266666667,Boso
+EM 2,2006,0.35483871,Boso
+EM 2,2007,0.454545455,Boso
+EM 2,2008,0.3125,Boso
+EM 2,2009,0.2,Boso
+EM 2,2010,0.290322581,Boso
+EM 2,2011,0.4,Boso
+EM 2,2012,0.375,Boso
+EM 2,2013,0.266666667,Boso
+EM 2,2014,0.357142857,Boso
+EM 2,2015,0.290322581,Boso
+EM 2,2016,0.266666667,Boso
+EM 2,2017,0.266666667,Boso
+EM 2,2018,0.285714286,Boso
+EM 3,2003,0,Boso
+EM 3,2004,0.235294118,Boso
+EM 3,2005,0.272727273,Boso
+EM 3,2006,0.2,Boso
+EM 3,2007,0.243243243,Boso
+EM 3,2008,0.310344828,Boso
+EM 3,2009,0.235294118,Boso
+EM 3,2010,0.222222222,Boso
+EM 3,2011,0.2,Boso
+EM 3,2012,0.268292683,Boso
+EM 3,2013,0.302325581,Boso
+EM 3,2014,0.230769231,Boso
+EM 3,2015,0.2,Boso
+EM 3,2016,0.210526316,Boso
+EM 3,2017,0.333333333,Boso
+EM 3,2018,0.179487179,Boso
+EM 4,2003,0,Boso
+EM 4,2004,0.304347826,Boso
+EM 4,2005,0.36,Boso
+EM 4,2006,0.238095238,Boso
+EM 4,2007,0.157894737,Boso
+EM 4,2008,0.181818182,Boso
+EM 4,2009,0.222222222,Boso
+EM 4,2010,0.304347826,Boso
+EM 4,2011,0.333333333,Boso
+EM 4,2012,0.36,Boso
+EM 4,2013,0.379310345,Boso
+EM 4,2014,0.272727273,Boso
+EM 4,2015,0.333333333,Boso
+EM 4,2016,0.428571429,Boso
+EM 4,2017,0.36,Boso
+EM 4,2018,0.391304348,Boso
+EM 5,2003,0,Boso
+EM 5,2004,0.217391304,Boso
+EM 5,2005,0.28,Boso
+EM 5,2006,0.2,Boso
+EM 5,2007,0.2,Boso
+EM 5,2008,0.217391304,Boso
+EM 5,2009,0.28,Boso
+EM 5,2010,0.307692308,Boso
+EM 5,2011,0.333333333,Boso
+EM 5,2012,0.363636364,Boso
+EM 5,2013,0.4,Boso
+EM 5,2014,0.363636364,Boso
+EM 5,2015,0.533333333,Boso
+EM 5,2016,0.428571429,Boso
+EM 5,2017,0.407407407,Boso
+EM 5,2018,0.384615385,Boso
+KM 1,2003,0,Boso
+KM 1,2004,0.217391304,Boso
+KM 1,2005,0.357142857,Boso
+KM 1,2006,0.4375,Boso
+KM 1,2007,0.44,Boso
+KM 1,2008,0.384615385,Boso
+KM 1,2009,0.36,Boso
+KM 1,2010,0.36,Boso
+KM 1,2011,0.466666667,Boso
+KM 1,2012,0.466666667,Boso
+KM 1,2013,0.448275862,Boso
+KM 1,2014,0.4375,Boso
+KM 1,2015,0.428571429,Boso
+KM 1,2016,0.384615385,Boso
+KM 1,2017,0.407407407,Boso
+KM 1,2018,0.461538462,Boso
+KM 2,2003,0,Boso
+KM 2,2004,0.393939394,Boso
+KM 2,2005,0.333333333,Boso
+KM 2,2006,0.294117647,Boso
+KM 2,2007,0.393939394,Boso
+KM 2,2008,0.3125,Boso
+KM 2,2009,0.371428571,Boso
+KM 2,2010,0.333333333,Boso
+KM 2,2011,0.4375,Boso
+KM 2,2012,0.375,Boso
+KM 2,2013,0.384615385,Boso
+KM 2,2014,0.310344828,Boso
+KM 2,2015,0.454545455,Boso
+KM 2,2016,0.266666667,Boso
+KM 2,2017,0.393939394,Boso
+KM 2,2018,0.357142857,Boso
+KM 3,2003,0,Boso
+KM 3,2004,0.44,Boso
+KM 3,2005,0.333333333,Boso
+KM 3,2006,0.555555556,Boso
+KM 3,2007,0.363636364,Boso
+KM 3,2008,0.391304348,Boso
+KM 3,2009,0.333333333,Boso
+KM 3,2010,0.36,Boso
+KM 3,2011,0.454545455,Boso
+KM 3,2012,0.307692308,Boso
+KM 3,2013,0.481481481,Boso
+KM 3,2014,0.28,Boso
+KM 3,2015,0.44,Boso
+KM 3,2016,0.36,Boso
+KM 3,2017,0.307692308,Boso
+KM 3,2018,0.304347826,Boso
+KM 4,2003,0,Boso
+KM 4,2004,0.25,Boso
+KM 4,2005,0.272727273,Boso
+KM 4,2006,0.294117647,Boso
+KM 4,2007,0.272727273,Boso
+KM 4,2008,0.371428571,Boso
+KM 4,2009,0.371428571,Boso
+KM 4,2010,0.310344828,Boso
+KM 4,2011,0.375,Boso
+KM 4,2012,0.428571429,Boso
+KM 4,2013,0.35483871,Boso
+KM 4,2014,0.351351351,Boso
+KM 4,2015,0.4,Boso
+KM 4,2016,0.371428571,Boso
+KM 4,2017,0.428571429,Boso
+KM 4,2018,0.290322581,Boso
+KM 5,2003,0,Boso
+KM 5,2004,0.314285714,Boso
+KM 5,2005,0.368421053,Boso
+KM 5,2006,0.368421053,Boso
+KM 5,2007,0.6,Boso
+KM 5,2008,0.411764706,Boso
+KM 5,2009,0.5,Boso
+KM 5,2010,0.393939394,Boso
+KM 5,2011,0.4375,Boso
+KM 5,2012,0.411764706,Boso
+KM 5,2013,0.435897436,Boso
+KM 5,2014,0.487179487,Boso
+KM 5,2015,0.405405405,Boso
+KM 5,2016,0.333333333,Boso
+KM 5,2017,0.470588235,Boso
+KM 5,2018,0.542857143,Boso
+MR 1,2003,0,Boso
+MR 1,2004,0.36,Boso
+MR 1,2005,0.24137931,Boso
+MR 1,2006,0.448275862,Boso
+MR 1,2007,0.333333333,Boso
+MR 1,2008,0.363636364,Boso
+MR 1,2009,0.379310345,Boso
+MR 1,2010,0.290322581,Boso
+MR 1,2011,0.225806452,Boso
+MR 1,2012,0.333333333,Boso
+MR 1,2013,0.371428571,Boso
+MR 1,2014,0.419354839,Boso
+MR 1,2015,0.375,Boso
+MR 1,2016,0.3125,Boso
+MR 1,2017,0.3125,Boso
+MR 1,2018,0.448275862,Boso
+MR 2,2003,0,Boso
+MR 2,2004,0.24137931,Boso
+MR 2,2005,0.310344828,Boso
+MR 2,2006,0.294117647,Boso
+MR 2,2007,0.647058824,Boso
+MR 2,2008,0.36,Boso
+MR 2,2009,0.379310345,Boso
+MR 2,2010,0.333333333,Boso
+MR 2,2011,0.419354839,Boso
+MR 2,2012,0.4375,Boso
+MR 2,2013,0.411764706,Boso
+MR 2,2014,0.529411765,Boso
+MR 2,2015,0.428571429,Boso
+MR 2,2016,0.419354839,Boso
+MR 2,2017,0.483870968,Boso
+MR 2,2018,0.517241379,Boso
+MR 3,2003,0,Boso
+MR 3,2004,0.285714286,Boso
+MR 3,2005,0.290322581,Boso
+MR 3,2006,0.448275862,Boso
+MR 3,2007,0.310344828,Boso
+MR 3,2008,0.333333333,Boso
+MR 3,2009,0.285714286,Boso
+MR 3,2010,0.3125,Boso
+MR 3,2011,0.225806452,Boso
+MR 3,2012,0.272727273,Boso
+MR 3,2013,0.352941176,Boso
+MR 3,2014,0.285714286,Boso
+MR 3,2015,0.5,Boso
+MR 3,2016,0.375,Boso
+MR 3,2017,0.4375,Boso
+MR 3,2018,0.35483871,Boso
+MR 4,2003,0,Boso
+MR 4,2004,0.454545455,Boso
+MR 4,2005,0.259259259,Boso
+MR 4,2006,0.407407407,Boso
+MR 4,2007,0.368421053,Boso
+MR 4,2008,0.3,Boso
+MR 4,2009,0.230769231,Boso
+MR 4,2010,0.28,Boso
+MR 4,2011,0.2,Boso
+MR 4,2012,0.28,Boso
+MR 4,2013,0.285714286,Boso
+MR 4,2014,0.28,Boso
+MR 4,2015,0.166666667,Boso
+MR 4,2016,0.304347826,Boso
+MR 4,2017,0.333333333,Boso
+MR 4,2018,0.307692308,Boso
+MR 5,2003,0,Boso
+MR 5,2004,0.5,Boso
+MR 5,2005,0.285714286,Boso
+MR 5,2006,0.52,Boso
+MR 5,2007,0.47826087,Boso
+MR 5,2008,0.523809524,Boso
+MR 5,2009,0.36,Boso
+MR 5,2010,0.407407407,Boso
+MR 5,2011,0.416666667,Boso
+MR 5,2012,0.28,Boso
+MR 5,2013,0.4,Boso
+MR 5,2014,0.357142857,Boso
+MR 5,2015,0.454545455,Boso
+MR 5,2016,0.419354839,Boso
+MR 5,2017,0.548387097,Boso
+MR 5,2018,0.461538462,Boso
+NS 1,2003,0,Boso
+NS 1,2004,0.130434783,Boso
+NS 1,2005,0.307692308,Boso
+NS 1,2006,0.384615385,Boso
+NS 1,2007,0.3,Boso
+NS 1,2008,0.2307692,Boso
+NS 1,2009,0.307692308,Boso
+NS 1,2010,0.25,Boso
+NS 1,2011,0.12,Boso
+NS 1,2012,0.230769231,Boso
+NS 1,2013,0.238095238,Boso
+NS 1,2014,0.333333333,Boso
+NS 1,2015,0.304347826,Boso
+NS 1,2016,0.2,Boso
+NS 1,2017,0.454545455,Boso
+NS 1,2018,0.25,Boso
+NS 2,2003,0,Boso
+NS 2,2004,0.428571429,Boso
+NS 2,2005,0.333333333,Boso
+NS 2,2006,0.407407407,Boso
+NS 2,2007,0.28,Boso
+NS 2,2008,0.304347826,Boso
+NS 2,2009,0.357142857,Boso
+NS 2,2010,0.36,Boso
+NS 2,2011,0.454545455,Boso
+NS 2,2012,0.333333333,Boso
+NS 2,2013,0.379310345,Boso
+NS 2,2014,0.28,Boso
+NS 2,2015,0.44,Boso
+NS 2,2016,0.384615385,Boso
+NS 2,2017,0.333333333,Boso
+NS 2,2018,0.448275862,Boso
+NS 3,2003,0,Boso
+NS 3,2004,0.304347826,Boso
+NS 3,2005,0.407407407,Boso
+NS 3,2006,0.44,Boso
+NS 3,2007,0.5,Boso
+NS 3,2008,0.416666667,Boso
+NS 3,2009,0.483870968,Boso
+NS 3,2010,0.384615385,Boso
+NS 3,2011,0.36,Boso
+NS 3,2012,0.333333333,Boso
+NS 3,2013,0.52,Boso
+NS 3,2014,0.428571429,Boso
+NS 3,2015,0.333333333,Boso
+NS 3,2016,0.391304348,Boso
+NS 3,2017,0.461538462,Boso
+NS 3,2018,0.416666667,Boso
+NS 4,2003,0,Boso
+NS 4,2004,0.304347826,Boso
+NS 4,2005,0.153846154,Boso
+NS 4,2006,0.357142857,Boso
+NS 4,2007,0.333333333,Boso
+NS 4,2008,0.416666667,Boso
+NS 4,2009,0.266666667,Boso
+NS 4,2010,0.36,Boso
+NS 4,2011,0.384615385,Boso
+NS 4,2012,0.36,Boso
+NS 4,2013,0.333333333,Boso
+NS 4,2014,0.448275862,Boso
+NS 4,2015,0.304347826,Boso
+NS 4,2016,0.44,Boso
+NS 4,2017,0.185185185,Boso
+NS 4,2018,0.428571429,Boso
+NS 5,2003,0,Boso
+NS 5,2004,0.210526316,Boso
+NS 5,2005,0.19047619,Boso
+NS 5,2006,0.3,Boso
+NS 5,2007,0.352941176,Boso
+NS 5,2008,0.384615385,Boso
+NS 5,2009,0.4,Boso
+NS 5,2010,0.473684211,Boso
+NS 5,2011,0.428571429,Boso
+NS 5,2012,0.542857143,Boso
+NS 5,2013,0.421052632,Boso
+NS 5,2014,0.428571429,Boso
+NS 5,2015,0.473684211,Boso
+NS 5,2016,0.575757576,Boso
+NS 5,2017,0.405405405,Boso
+NS 5,2018,0.444444444,Boso
+BN 1,2003,0,Nanki
+BN 1,2004,0.411764706,Nanki
+BN 1,2005,0.55,Nanki
+BN 1,2006,0.419354839,Nanki
+BN 1,2007,0.4,Nanki
+BN 1,2008,0.481481481,Nanki
+BN 1,2009,0.428571429,Nanki
+BN 1,2010,0.5,Nanki
+BN 1,2011,0.428571429,Nanki
+BN 1,2012,0.411764706,Nanki
+BN 1,2013,0.411764706,Nanki
+BN 1,2014,0.517241379,Nanki
+BN 1,2015,0.5,Nanki
+BN 1,2016,0.448275862,Nanki
+BN 1,2017,0.5,Nanki
+BN 1,2018,0.333333333,Nanki
+BN 2,2003,0,Nanki
+BN 2,2004,0.266666667,Nanki
+BN 2,2005,0.245901639,Nanki
+BN 2,2006,0.298245614,Nanki
+BN 2,2007,0.294117647,Nanki
+BN 2,2008,0.294117647,Nanki
+BN 2,2009,0.220338983,Nanki
+BN 2,2010,0.476190476,Nanki
+BN 2,2011,0.476190476,Nanki
+BN 2,2012,0.306122449,Nanki
+BN 2,2013,0.450980392,Nanki
+BN 2,2014,0.346153846,Nanki
+BN 2,2015,0.387755102,Nanki
+BN 2,2016,0.294117647,Nanki
+BN 2,2017,0.428571429,Nanki
+BN 2,2018,0.333333333,Nanki
+BN 3,2003,0,Nanki
+BN 3,2004,0.409090909,Nanki
+BN 3,2005,0.395348837,Nanki
+BN 3,2006,0.422222222,Nanki
+BN 3,2007,0.534883721,Nanki
+BN 3,2008,0.422222222,Nanki
+BN 3,2009,0.388888889,Nanki
+BN 3,2010,0.612903226,Nanki
+BN 3,2011,0.446808511,Nanki
+BN 3,2012,0.368421053,Nanki
+BN 3,2013,0.377777778,Nanki
+BN 3,2014,0.351351351,Nanki
+BN 3,2015,0.444444444,Nanki
+BN 3,2016,0.361702128,Nanki
+BN 3,2017,0.444444444,Nanki
+BN 3,2018,0.255813953,Nanki
+BN 4,2003,0,Nanki
+BN 4,2004,0.4,Nanki
+BN 4,2005,0.448275862,Nanki
+BN 4,2006,0.416666667,Nanki
+BN 4,2007,0.533333333,Nanki
+BN 4,2008,0.47826087,Nanki
+BN 4,2009,0.416666667,Nanki
+BN 4,2010,0.470588235,Nanki
+BN 4,2011,0.416666667,Nanki
+BN 4,2012,0.461538462,Nanki
+BN 4,2013,0.428571429,Nanki
+BN 4,2014,0.333333333,Nanki
+BN 4,2015,0.428571429,Nanki
+BN 4,2016,0.428571429,Nanki
+BN 4,2017,0.454545455,Nanki
+BN 4,2018,0.666666667,Nanki
+BN 5,2003,0,Nanki
+BN 5,2004,0.294117647,Nanki
+BN 5,2005,0.44,Nanki
+BN 5,2006,0.314285714,Nanki
+BN 5,2007,0.371428571,Nanki
+BN 5,2008,0.441860465,Nanki
+BN 5,2009,0.446808511,Nanki
+BN 5,2010,0.476190476,Nanki
+BN 5,2011,0.294117647,Nanki
+BN 5,2012,0.463414634,Nanki
+BN 5,2013,0.4,Nanki
+BN 5,2014,0.351351351,Nanki
+BN 5,2015,0.488372093,Nanki
+BN 5,2016,0.466666667,Nanki
+BN 5,2017,0.380952381,Nanki
+BN 5,2018,0.45,Nanki
+HC 1,2003,0,Nanki
+HC 1,2004,0.294117647,Nanki
+HC 1,2005,0.481481481,Nanki
+HC 1,2006,0.272727273,Nanki
+HC 1,2007,0.448275862,Nanki
+HC 1,2008,0.411764706,Nanki
+HC 1,2009,0.368421053,Nanki
+HC 1,2010,0.454545455,Nanki
+HC 1,2011,0.263157895,Nanki
+HC 1,2012,0.4,Nanki
+HC 1,2013,0.333333333,Nanki
+HC 1,2014,0.272727273,Nanki
+HC 1,2015,0.52,Nanki
+HC 1,2016,0.5,Nanki
+HC 1,2017,0.294117647,Nanki
+HC 1,2018,0.454545455,Nanki
+HC 2,2003,0,Nanki
+HC 2,2004,0.333333333,Nanki
+HC 2,2005,0.6,Nanki
+HC 2,2006,0.407407407,Nanki
+HC 2,2007,0.548387097,Nanki
+HC 2,2008,0.481481481,Nanki
+HC 2,2009,0.565217391,Nanki
+HC 2,2010,0.4,Nanki
+HC 2,2011,0.481481481,Nanki
+HC 2,2012,0.307692308,Nanki
+HC 2,2013,0.35483871,Nanki
+HC 2,2014,0.6,Nanki
+HC 2,2015,0.517241379,Nanki
+HC 2,2016,0.5,Nanki
+HC 2,2017,0.538461538,Nanki
+HC 2,2018,0.538461538,Nanki
+HC 3,2003,0,Nanki
+HC 3,2004,0.393939394,Nanki
+HC 3,2005,0.380952381,Nanki
+HC 3,2006,0.5,Nanki
+HC 3,2007,0.428571429,Nanki
+HC 3,2008,0.357142857,Nanki
+HC 3,2009,0.428571429,Nanki
+HC 3,2010,0.444444444,Nanki
+HC 3,2011,0.294117647,Nanki
+HC 3,2012,0.352941176,Nanki
+HC 3,2013,0.488372093,Nanki
+HC 3,2014,0.421052632,Nanki
+HC 3,2015,0.419354839,Nanki
+HC 3,2016,0.487179487,Nanki
+HC 3,2017,0.419354839,Nanki
+HC 3,2018,0.388888889,Nanki
+HC 4,2003,0,Nanki
+HC 4,2004,0.263157895,Nanki
+HC 4,2005,0.47826087,Nanki
+HC 4,2006,0.25,Nanki
+HC 4,2007,0.263157895,Nanki
+HC 4,2008,0.473684211,Nanki
+HC 4,2009,0.333333333,Nanki
+HC 4,2010,0.25,Nanki
+HC 4,2011,0.25,Nanki
+HC 4,2012,0.368421053,Nanki
+HC 4,2013,0.368421053,Nanki
+HC 4,2014,0.4,Nanki
+HC 4,2015,0.473684211,Nanki
+HC 4,2016,0.428571429,Nanki
+HC 4,2017,0.2,Nanki
+HC 4,2018,0.4,Nanki
+HC 5,2003,0,Nanki
+HC 5,2004,0.384615385,Nanki
+HC 5,2005,0.555555556,Nanki
+HC 5,2006,0.5,Nanki
+HC 5,2007,0.529411765,Nanki
+HC 5,2008,0.555555556,Nanki
+HC 5,2009,0.384615385,Nanki
+HC 5,2010,0.529411765,Nanki
+HC 5,2011,0.571428571,Nanki
+HC 5,2012,0.384615385,Nanki
+HC 5,2013,0.6,Nanki
+HC 5,2014,0.666666667,Nanki
+HC 5,2015,0.666666667,Nanki
+HC 5,2016,0.555555556,Nanki
+HC 5,2017,0.538461538,Nanki
+HC 5,2018,0.466666667,Nanki
+MT 1,2003,0,Nanki
+MT 1,2004,0.285714286,Nanki
+MT 1,2005,0.428571429,Nanki
+MT 1,2006,0.35483871,Nanki
+MT 1,2007,0.307692308,Nanki
+MT 1,2008,0.28,Nanki
+MT 1,2009,0.230769231,Nanki
+MT 1,2010,0.304347826,Nanki
+MT 1,2011,0.454545455,Nanki
+MT 1,2012,0.428571429,Nanki
+MT 1,2013,0.307692308,Nanki
+MT 1,2014,0.333333333,Nanki
+MT 1,2015,0.285714286,Nanki
+MT 1,2016,0.36,Nanki
+MT 1,2017,0.379310345,Nanki
+MT 1,2018,0.384615385,Nanki
+MT 2,2003,0,Nanki
+MT 2,2004,0.259259259,Nanki
+MT 2,2005,0.459459459,Nanki
+MT 2,2006,0.307692308,Nanki
+MT 2,2007,0.384615385,Nanki
+MT 2,2008,0.448275862,Nanki
+MT 2,2009,0.454545455,Nanki
+MT 2,2010,0.454545455,Nanki
+MT 2,2011,0.391304348,Nanki
+MT 2,2012,0.448275862,Nanki
+MT 2,2013,0.357142857,Nanki
+MT 2,2014,0.272727273,Nanki
+MT 2,2015,0.4375,Nanki
+MT 2,2016,0.454545455,Nanki
+MT 2,2017,0.35483871,Nanki
+MT 2,2018,0.357142857,Nanki
+MT 3,2003,0,Nanki
+MT 3,2004,0.24137931,Nanki
+MT 3,2005,0.36,Nanki
+MT 3,2006,0.230769231,Nanki
+MT 3,2007,0.24137931,Nanki
+MT 3,2008,0.166666667,Nanki
+MT 3,2009,0.217391304,Nanki
+MT 3,2010,0.185185185,Nanki
+MT 3,2011,0.304347826,Nanki
+MT 3,2012,0.217391304,Nanki
+MT 3,2013,0.357142857,Nanki
+MT 3,2014,0.44,Nanki
+MT 3,2015,0.214285714,Nanki
+MT 3,2016,0.25,Nanki
+MT 3,2017,0.230769231,Nanki
+MT 3,2018,0.153846154,Nanki
+MT 4,2003,0,Nanki
+MT 4,2004,0.185185185,Nanki
+MT 4,2005,0.428571429,Nanki
+MT 4,2006,0.36,Nanki
+MT 4,2007,0.44,Nanki
+MT 4,2008,0.428571429,Nanki
+MT 4,2009,0.3,Nanki
+MT 4,2010,0.44,Nanki
+MT 4,2011,0.416666667,Nanki
+MT 4,2012,0.545454545,Nanki
+MT 4,2013,0.391304348,Nanki
+MT 4,2014,0.44,Nanki
+MT 4,2015,0.416666667,Nanki
+MT 4,2016,0.379310345,Nanki
+MT 4,2017,0.363636364,Nanki
+MT 4,2018,0.363636364,Nanki
+MT 5,2003,0,Nanki
+MT 5,2004,0.181818182,Nanki
+MT 5,2005,0.363636364,Nanki
+MT 5,2006,0.304347826,Nanki
+MT 5,2007,0.416666667,Nanki
+MT 5,2008,0.407407407,Nanki
+MT 5,2009,0.272727273,Nanki
+MT 5,2010,0.25,Nanki
+MT 5,2011,0.333333333,Nanki
+MT 5,2012,0.272727273,Nanki
+MT 5,2013,0.363636364,Nanki
+MT 5,2014,0.230769231,Nanki
+MT 5,2015,0.166666667,Nanki
+MT 5,2016,0.310344828,Nanki
+MT 5,2017,0.333333333,Nanki
+MT 5,2018,0.304347826,Nanki
+TD 1,2003,0,Nanki
+TD 1,2004,0.454545455,Nanki
+TD 1,2005,0.5,Nanki
+TD 1,2006,0.166666667,Nanki
+TD 1,2007,0.230769231,Nanki
+TD 1,2008,0.333333333,Nanki
+TD 1,2009,0.529411765,Nanki
+TD 1,2010,0.333333333,Nanki
+TD 1,2011,0.333333333,Nanki
+TD 1,2012,0.2,Nanki
+TD 1,2013,0.454545455,Nanki
+TD 1,2014,0.571428571,Nanki
+TD 1,2015,0.5,Nanki
+TD 1,2016,0.428571429,Nanki
+TD 1,2017,0.384615385,Nanki
+TD 1,2018,0.333333333,Nanki
+TD 2,2003,0,Nanki
+TD 2,2004,0.333333333,Nanki
+TD 2,2005,0.625,Nanki
+TD 2,2006,0.5,Nanki
+TD 2,2007,0.444444444,Nanki
+TD 2,2008,0.625,Nanki
+TD 2,2009,0.333333333,Nanki
+TD 2,2010,0.666666667,Nanki
+TD 2,2011,0.428571429,Nanki
+TD 2,2012,0.411764706,Nanki
+TD 2,2013,0.263157895,Nanki
+TD 2,2014,0.375,Nanki
+TD 2,2015,0.222222222,Nanki
+TD 2,2016,0.333333333,Nanki
+TD 2,2017,0.529411765,Nanki
+TD 2,2018,0.5,Nanki
+TD 3,2003,0,Nanki
+TD 3,2004,0.333333333,Nanki
+TD 3,2005,0.333333333,Nanki
+TD 3,2006,0.142857143,Nanki
+TD 3,2007,0.142857143,Nanki
+TD 3,2008,0.25,Nanki
+TD 3,2009,0.428571429,Nanki
+TD 3,2010,0.333333333,Nanki
+TD 3,2011,0.5,Nanki
+TD 3,2012,0.6,Nanki
+TD 3,2013,0.333333333,Nanki
+TD 3,2014,0.538461538,Nanki
+TD 3,2015,0.571428571,Nanki
+TD 3,2016,0.333333333,Nanki
+TD 3,2017,0.333333333,Nanki
+TD 3,2018,0.4,Nanki
+TD 4,2003,0,Nanki
+TD 4,2004,0.333333333,Nanki
+TD 4,2005,0.393939394,Nanki
+TD 4,2006,0.28,Nanki
+TD 4,2007,0.384615385,Nanki
+TD 4,2008,0.4375,Nanki
+TD 4,2009,0.454545455,Nanki
+TD 4,2010,0.419354839,Nanki
+TD 4,2011,0.4,Nanki
+TD 4,2012,0.5,Nanki
+TD 4,2013,0.285714286,Nanki
+TD 4,2014,0.357142857,Nanki
+TD 4,2015,0.357142857,Nanki
+TD 4,2016,0.379310345,Nanki
+TD 4,2017,0.538461538,Nanki
+TD 4,2018,0.428571429,Nanki
+TD 5,2003,0,Nanki
+TD 5,2004,0.230769231,Nanki
+TD 5,2005,0.583333333,Nanki
+TD 5,2006,0.333333333,Nanki
+TD 5,2007,0.363636364,Nanki
+TD 5,2008,0.473684211,Nanki
+TD 5,2009,0.473684211,Nanki
+TD 5,2010,0.304347826,Nanki
+TD 5,2011,0.444444444,Nanki
+TD 5,2012,0.391304348,Nanki
+TD 5,2013,0.379310345,Nanki
+TD 5,2014,0.259259259,Nanki
+TD 5,2015,0.307692308,Nanki
+TD 5,2016,0.5,Nanki
+TD 5,2017,0.363636364,Nanki
+TD 5,2018,0.454545455,Nanki
+TN 1,2003,0,Nanki
+TN 1,2004,0.315789474,Nanki
+TN 1,2005,0.388888889,Nanki
+TN 1,2006,0.365853659,Nanki
+TN 1,2007,0.297297297,Nanki
+TN 1,2008,0.25,Nanki
+TN 1,2009,0.393939394,Nanki
+TN 1,2010,0.517241379,Nanki
+TN 1,2011,0.515151515,Nanki
+TN 1,2012,0.419354839,Nanki
+TN 1,2013,0.419354839,Nanki
+TN 1,2014,0.533333333,Nanki
+TN 1,2015,0.371428571,Nanki
+TN 1,2016,0.375,Nanki
+TN 1,2017,0.533333333,Nanki
+TN 1,2018,0.3125,Nanki
+TN 2,2003,0,Nanki
+TN 2,2004,0.24137931,Nanki
+TN 2,2005,0.294117647,Nanki
+TN 2,2006,0.333333333,Nanki
+TN 2,2007,0.225806452,Nanki
+TN 2,2008,0.285714286,Nanki
+TN 2,2009,0.235294118,Nanki
+TN 2,2010,0.384615385,Nanki
+TN 2,2011,0.36,Nanki
+TN 2,2012,0.379310345,Nanki
+TN 2,2013,0.333333333,Nanki
+TN 2,2014,0.307692308,Nanki
+TN 2,2015,0.214285714,Nanki
+TN 2,2016,0.357142857,Nanki
+TN 2,2017,0.384615385,Nanki
+TN 2,2018,0.44,Nanki
+TN 3,2003,0,Nanki
+TN 3,2004,0.461538462,Nanki
+TN 3,2005,0.461538462,Nanki
+TN 3,2006,0.47826087,Nanki
+TN 3,2007,0.407407407,Nanki
+TN 3,2008,0.368421053,Nanki
+TN 3,2009,0.545454545,Nanki
+TN 3,2010,0.555555556,Nanki
+TN 3,2011,0.333333333,Nanki
+TN 3,2012,0.555555556,Nanki
+TN 3,2013,0.416666667,Nanki
+TN 3,2014,0.333333333,Nanki
+TN 3,2015,0.428571429,Nanki
+TN 3,2016,0.428571429,Nanki
+TN 3,2017,0.333333333,Nanki
+TN 3,2018,0.391304348,Nanki
+TN 4,2003,0,Nanki
+TN 4,2004,0.333333333,Nanki
+TN 4,2005,0.4,Nanki
+TN 4,2006,0.2,Nanki
+TN 4,2007,0.380952381,Nanki
+TN 4,2008,0.421052632,Nanki
+TN 4,2009,0.421052632,Nanki
+TN 4,2010,0.463414634,Nanki
+TN 4,2011,0.35483871,Nanki
+TN 4,2012,0.473684211,Nanki
+TN 4,2013,0.388888889,Nanki
+TN 4,2014,0.333333333,Nanki
+TN 4,2015,0.470588235,Nanki
+TN 4,2016,0.466666667,Nanki
+TN 4,2017,0.517241379,Nanki
+TN 4,2018,0.567567568,Nanki
+TN 5,2003,0,Nanki
+TN 5,2004,0.235294118,Nanki
+TN 5,2005,0.348837209,Nanki
+TN 5,2006,0.235294118,Nanki
+TN 5,2007,0.282051282,Nanki
+TN 5,2008,0.375,Nanki
+TN 5,2009,0.35483871,Nanki
+TN 5,2010,0.272727273,Nanki
+TN 5,2011,0.2,Nanki
+TN 5,2012,0.297297297,Nanki
+TN 5,2013,0.435897436,Nanki
+TN 5,2014,0.266666667,Nanki
+TN 5,2015,0.411764706,Nanki
+TN 5,2016,0.266666667,Nanki
+TN 5,2017,0.352941176,Nanki
+TN 5,2018,0.272727273,Nanki
+HZ 1,2003,0,Osumi
+HZ 1,2004,0.302325581,Osumi
+HZ 1,2005,0.219512195,Osumi
+HZ 1,2006,0.255813953,Osumi
+HZ 1,2007,0.317073171,Osumi
+HZ 1,2008,0.333333333,Osumi
+HZ 1,2009,0.4,Osumi
+HZ 1,2010,0.230769231,Osumi
+HZ 1,2011,0.351351351,Osumi
+HZ 1,2012,0.25,Osumi
+HZ 1,2013,0.375,Osumi
+HZ 1,2014,0.297297297,Osumi
+HZ 1,2015,0.230769231,Osumi
+HZ 1,2016,0.317073171,Osumi
+HZ 1,2017,0.3,Osumi
+HZ 1,2018,0.318181818,Osumi
+HZ 2,2003,0,Osumi
+HZ 2,2004,0.368421053,Osumi
+HZ 2,2005,0.352941176,Osumi
+HZ 2,2006,0.405405405,Osumi
+HZ 2,2007,0.371428571,Osumi
+HZ 2,2008,0.419354839,Osumi
+HZ 2,2009,0.35483871,Osumi
+HZ 2,2010,0.4375,Osumi
+HZ 2,2011,0.379310345,Osumi
+HZ 2,2012,0.35483871,Osumi
+HZ 2,2013,0.44,Osumi
+HZ 2,2014,0.379310345,Osumi
+HZ 2,2015,0.483870968,Osumi
+HZ 2,2016,0.393939394,Osumi
+HZ 2,2017,0.4,Osumi
+HZ 2,2018,0.529411765,Osumi
+HZ 3,2003,0,Osumi
+HZ 3,2004,0.515151515,Osumi
+HZ 3,2005,0.266666667,Osumi
+HZ 3,2006,0.3125,Osumi
+HZ 3,2007,0.24137931,Osumi
+HZ 3,2008,0.333333333,Osumi
+HZ 3,2009,0.259259259,Osumi
+HZ 3,2010,0.285714286,Osumi
+HZ 3,2011,0.307692308,Osumi
+HZ 3,2012,0.393939394,Osumi
+HZ 3,2013,0.393939394,Osumi
+HZ 3,2014,0.371428571,Osumi
+HZ 3,2015,0.285714286,Osumi
+HZ 3,2016,0.285714286,Osumi
+HZ 3,2017,0.230769231,Osumi
+HZ 3,2018,0.285714286,Osumi
+HZ 4,2003,0,Osumi
+HZ 4,2004,0.222222222,Osumi
+HZ 4,2005,0.358490566,Osumi
+HZ 4,2006,0.245283019,Osumi
+HZ 4,2007,0.263157895,Osumi
+HZ 4,2008,0.416666667,Osumi
+HZ 4,2009,0.301587302,Osumi
+HZ 4,2010,0.283018868,Osumi
+HZ 4,2011,0.304347826,Osumi
+HZ 4,2012,0.32,Osumi
+HZ 4,2013,0.375,Osumi
+HZ 4,2014,0.333333333,Osumi
+HZ 4,2015,0.307692308,Osumi
+HZ 4,2016,0.411764706,Osumi
+HZ 4,2017,0.269230769,Osumi
+HZ 4,2018,0.333333333,Osumi
+HZ 5,2003,0,Osumi
+HZ 5,2004,0.388888889,Osumi
+HZ 5,2005,0.314285714,Osumi
+HZ 5,2006,0.310344828,Osumi
+HZ 5,2007,0.272727273,Osumi
+HZ 5,2008,0.375,Osumi
+HZ 5,2009,0.371428571,Osumi
+HZ 5,2010,0.272727273,Osumi
+HZ 5,2011,0.3125,Osumi
+HZ 5,2012,0.333333333,Osumi
+HZ 5,2013,0.307692308,Osumi
+HZ 5,2014,0.375,Osumi
+HZ 5,2015,0.4,Osumi
+HZ 5,2016,0.352941176,Osumi
+HZ 5,2017,0.333333333,Osumi
+HZ 5,2018,0.333333333,Osumi
+OD 1,2003,0,Osumi
+OD 1,2004,0.2,Osumi
+OD 1,2005,0.272727273,Osumi
+OD 1,2006,0.222222222,Osumi
+OD 1,2007,0.238095238,Osumi
+OD 1,2008,0.304347826,Osumi
+OD 1,2009,0.238095238,Osumi
+OD 1,2010,0.384615385,Osumi
+OD 1,2011,0.272727273,Osumi
+OD 1,2012,0.391304348,Osumi
+OD 1,2013,0.391304348,Osumi
+OD 1,2014,0.3,Osumi
+OD 1,2015,0.416666667,Osumi
+OD 1,2016,0.272727273,Osumi
+OD 1,2017,0.222222222,Osumi
+OD 1,2018,0.368421053,Osumi
+OD 2,2003,0,Osumi
+OD 2,2004,0.466666667,Osumi
+OD 2,2005,0.428571429,Osumi
+OD 2,2006,0.565217391,Osumi
+OD 2,2007,0.483870968,Osumi
+OD 2,2008,0.5,Osumi
+OD 2,2009,0.517241379,Osumi
+OD 2,2010,0.391304348,Osumi
+OD 2,2011,0.448275862,Osumi
+OD 2,2012,0.333333333,Osumi
+OD 2,2013,0.384615385,Osumi
+OD 2,2014,0.52,Osumi
+OD 2,2015,0.384615385,Osumi
+OD 2,2016,0.357142857,Osumi
+OD 2,2017,0.357142857,Osumi
+OD 2,2018,0.5,Osumi
+OD 3,2003,0,Osumi
+OD 3,2004,0.2,Osumi
+OD 3,2005,0.388888889,Osumi
+OD 3,2006,0.428571429,Osumi
+OD 3,2007,0.435897436,Osumi
+OD 3,2008,0.419354839,Osumi
+OD 3,2009,0.428571429,Osumi
+OD 3,2010,0.35483871,Osumi
+OD 3,2011,0.314285714,Osumi
+OD 3,2012,0.393939394,Osumi
+OD 3,2013,0.333333333,Osumi
+OD 3,2014,0.259259259,Osumi
+OD 3,2015,0.307692308,Osumi
+OD 3,2016,0.393939394,Osumi
+OD 3,2017,0.310344828,Osumi
+OD 3,2018,0.285714286,Osumi
+OD 4,2003,0,Osumi
+OD 4,2004,0.317073171,Osumi
+OD 4,2005,0.25,Osumi
+OD 4,2006,0.333333333,Osumi
+OD 4,2007,0.25,Osumi
+OD 4,2008,0.2,Osumi
+OD 4,2009,0.317073171,Osumi
+OD 4,2010,0.243243243,Osumi
+OD 4,2011,0.315789474,Osumi
+OD 4,2012,0.391304348,Osumi
+OD 4,2013,0.15,Osumi
+OD 4,2014,0.3,Osumi
+OD 4,2015,0.219512195,Osumi
+OD 4,2016,0.317073171,Osumi
+OD 4,2017,0.243243243,Osumi
+OD 4,2018,0.219512195,Osumi
+OD 5,2003,0,Osumi
+OD 5,2004,0.230769231,Osumi
+OD 5,2005,0.185185185,Osumi
+OD 5,2006,0.214285714,Osumi
+OD 5,2007,0.4,Osumi
+OD 5,2008,0.172413793,Osumi
+OD 5,2009,0.2,Osumi
+OD 5,2010,0.333333333,Osumi
+OD 5,2011,0.24137931,Osumi
+OD 5,2012,0.214285714,Osumi
+OD 5,2013,0.214285714,Osumi
+OD 5,2014,0.214285714,Osumi
+OD 5,2015,0.230769231,Osumi
+OD 5,2016,0.357142857,Osumi
+OD 5,2017,0.290322581,Osumi
+OD 5,2018,0.266666667,Osumi
+SD 1,2003,0,Osumi
+SD 1,2004,0.619047619,Osumi
+SD 1,2005,0.777777778,Osumi
+SD 1,2006,0.777777778,Osumi
+SD 1,2007,0.733333333,Osumi
+SD 1,2008,0.571428571,Osumi
+SD 1,2009,0.764705882,Osumi
+SD 1,2010,0.714285714,Osumi
+SD 1,2011,0.733333333,Osumi
+SD 1,2012,0.714285714,Osumi
+SD 1,2013,0.571428571,Osumi
+SD 1,2014,0.666666667,Osumi
+SD 1,2015,0.555555556,Osumi
+SD 1,2016,0.6,Osumi
+SD 1,2017,0.692307692,Osumi
+SD 1,2018,0.571428571,Osumi
+SD 2,2003,0,Osumi
+SD 2,2004,0.5,Osumi
+SD 2,2005,0.6,Osumi
+SD 2,2006,0.454545455,Osumi
+SD 2,2007,0.571428571,Osumi
+SD 2,2008,0.666666667,Osumi
+SD 2,2009,0.548387097,Osumi
+SD 2,2010,0.47826087,Osumi
+SD 2,2011,0.454545455,Osumi
+SD 2,2012,0.555555556,Osumi
+SD 2,2013,0.655172414,Osumi
+SD 2,2014,0.52,Osumi
+SD 2,2015,0.47826087,Osumi
+SD 2,2016,0.391304348,Osumi
+SD 2,2017,0.47826087,Osumi
+SD 2,2018,0.555555556,Osumi
+SD 3,2003,0,Osumi
+SD 3,2004,0.545454545,Osumi
+SD 3,2005,0.6,Osumi
+SD 3,2006,0.461538462,Osumi
+SD 3,2007,0.523809524,Osumi
+SD 3,2008,0.565217391,Osumi
+SD 3,2009,0.68,Osumi
+SD 3,2010,0.615384615,Osumi
+SD 3,2011,0.586206897,Osumi
+SD 3,2012,0.391304348,Osumi
+SD 3,2013,0.52,Osumi
+SD 3,2014,0.5,Osumi
+SD 3,2015,0.523809524,Osumi
+SD 3,2016,0.545454545,Osumi
+SD 3,2017,0.47826087,Osumi
+SD 3,2018,0.555555556,Osumi
+SD 4,2003,0,Osumi
+SD 4,2004,0.5,Osumi
+SD 4,2005,0.523809524,Osumi
+SD 4,2006,0.523809524,Osumi
+SD 4,2007,0.5,Osumi
+SD 4,2008,0.523809524,Osumi
+SD 4,2009,0.615384615,Osumi
+SD 4,2010,0.62962963,Osumi
+SD 4,2011,0.666666667,Osumi
+SD 4,2012,0.473684211,Osumi
+SD 4,2013,0.523809524,Osumi
+SD 4,2014,0.619047619,Osumi
+SD 4,2015,0.578947368,Osumi
+SD 4,2016,0.619047619,Osumi
+SD 4,2017,0.619047619,Osumi
+SD 4,2018,0.619047619,Osumi
+SD 5,2003,0,Osumi
+SD 5,2004,0.3,Osumi
+SD 5,2005,0.391304348,Osumi
+SD 5,2006,0.428571429,Osumi
+SD 5,2007,0.391304348,Osumi
+SD 5,2008,0.529411765,Osumi
+SD 5,2009,0.363636364,Osumi
+SD 5,2010,0.416666667,Osumi
+SD 5,2011,0.363636364,Osumi
+SD 5,2012,0.428571429,Osumi
+SD 5,2013,0.333333333,Osumi
+SD 5,2014,0.384615385,Osumi
+SD 5,2015,0.304347826,Osumi
+SD 5,2016,0.272727273,Osumi
+SD 5,2017,0.36,Osumi
+SD 5,2018,0.36,Osumi
+TJ 1,2003,0,Osumi
+TJ 1,2004,0.393939394,Osumi
+TJ 1,2005,0.388888889,Osumi
+TJ 1,2006,0.352941176,Osumi
+TJ 1,2007,0.351351351,Osumi
+TJ 1,2008,0.317073171,Osumi
+TJ 1,2009,0.393939394,Osumi
+TJ 1,2010,0.448275862,Osumi
+TJ 1,2011,0.310344828,Osumi
+TJ 1,2012,0.428571429,Osumi
+TJ 1,2013,0.225806452,Osumi
+TJ 1,2014,0.419354839,Osumi
+TJ 1,2015,0.428571429,Osumi
+TJ 1,2016,0.419354839,Osumi
+TJ 1,2017,0.35483871,Osumi
+TJ 1,2018,0.375,Osumi
+TJ 2,2003,0,Osumi
+TJ 2,2004,0.25,Osumi
+TJ 2,2005,0.294117647,Osumi
+TJ 2,2006,0.333333333,Osumi
+TJ 2,2007,0.1875,Osumi
+TJ 2,2008,0.235294118,Osumi
+TJ 2,2009,0.294117647,Osumi
+TJ 2,2010,0.230769231,Osumi
+TJ 2,2011,0.272727273,Osumi
+TJ 2,2012,0.368421053,Osumi
+TJ 2,2013,0.2,Osumi
+TJ 2,2014,0.272727273,Osumi
+TJ 2,2015,0.333333333,Osumi
+TJ 2,2016,0.310344828,Osumi
+TJ 2,2017,0.3125,Osumi
+TJ 2,2018,0.1875,Osumi
+TJ 3,2003,0,Osumi
+TJ 3,2004,0.234042553,Osumi
+TJ 3,2005,0.191489362,Osumi
+TJ 3,2006,0.24,Osumi
+TJ 3,2007,0.24,Osumi
+TJ 3,2008,0.176470588,Osumi
+TJ 3,2009,0.224489796,Osumi
+TJ 3,2010,0.230769231,Osumi
+TJ 3,2011,0.166666667,Osumi
+TJ 3,2012,0.191489362,Osumi
+TJ 3,2013,0.306122449,Osumi
+TJ 3,2014,0.2,Osumi
+TJ 3,2015,0.2,Osumi
+TJ 3,2016,0.095238095,Osumi
+TJ 3,2017,0.260869565,Osumi
+TJ 3,2018,0.288888889,Osumi
+TJ 4,2003,0,Osumi
+TJ 4,2004,0.454545455,Osumi
+TJ 4,2005,0.290322581,Osumi
+TJ 4,2006,0.333333333,Osumi
+TJ 4,2007,0.421052632,Osumi
+TJ 4,2008,0.405405405,Osumi
+TJ 4,2009,0.405405405,Osumi
+TJ 4,2010,0.384615385,Osumi
+TJ 4,2011,0.333333333,Osumi
+TJ 4,2012,0.428571429,Osumi
+TJ 4,2013,0.375,Osumi
+TJ 4,2014,0.333333333,Osumi
+TJ 4,2015,0.290322581,Osumi
+TJ 4,2016,0.266666667,Osumi
+TJ 4,2017,0.266666667,Osumi
+TJ 4,2018,0.35483871,Osumi
+TJ 5,2003,0,Osumi
+TJ 5,2004,0.379310345,Osumi
+TJ 5,2005,0.333333333,Osumi
+TJ 5,2006,0.310344828,Osumi
+TJ 5,2007,0.24137931,Osumi
+TJ 5,2008,0.379310345,Osumi
+TJ 5,2009,0.4,Osumi
+TJ 5,2010,0.333333333,Osumi
+TJ 5,2011,0.428571429,Osumi
+TJ 5,2012,0.310344828,Osumi
+TJ 5,2013,0.310344828,Osumi
+TJ 5,2014,0.290322581,Osumi
+TJ 5,2015,0.333333333,Osumi
+TJ 5,2016,0.407407407,Osumi
+TJ 5,2017,0.333333333,Osumi
+TJ 5,2018,0.419354839,Osumi
+TK 1,2003,0,Osumi
+TK 1,2004,0.283018868,Osumi
+TK 1,2005,0.285714286,Osumi
+TK 1,2006,0.309090909,Osumi
+TK 1,2007,0.272727273,Osumi
+TK 1,2008,0.283018868,Osumi
+TK 1,2009,0.269230769,Osumi
+TK 1,2010,0.283018868,Osumi
+TK 1,2011,0.28,Osumi
+TK 1,2012,0.294117647,Osumi
+TK 1,2013,0.304347826,Osumi
+TK 1,2014,0.361702128,Osumi
+TK 1,2015,0.254901961,Osumi
+TK 1,2016,0.259259259,Osumi
+TK 1,2017,0.265306122,Osumi
+TK 1,2018,0.2,Osumi
+TK 2,2003,0,Osumi
+TK 2,2004,0.268292683,Osumi
+TK 2,2005,0.219512195,Osumi
+TK 2,2006,0.255813953,Osumi
+TK 2,2007,0.157894737,Osumi
+TK 2,2008,0.294117647,Osumi
+TK 2,2009,0.263157895,Osumi
+TK 2,2010,0.314285714,Osumi
+TK 2,2011,0.294117647,Osumi
+TK 2,2012,0.333333333,Osumi
+TK 2,2013,0.189189189,Osumi
+TK 2,2014,0.135135135,Osumi
+TK 2,2015,0.2,Osumi
+TK 2,2016,0.333333333,Osumi
+TK 2,2017,0.395348837,Osumi
+TK 2,2018,0.282051282,Osumi
+TK 3,2003,0,Osumi
+TK 3,2004,0.333333333,Osumi
+TK 3,2005,0.35483871,Osumi
+TK 3,2006,0.393939394,Osumi
+TK 3,2007,0.375,Osumi
+TK 3,2008,0.333333333,Osumi
+TK 3,2009,0.4375,Osumi
+TK 3,2010,0.333333333,Osumi
+TK 3,2011,0.388888889,Osumi
+TK 3,2012,0.352941176,Osumi
+TK 3,2013,0.290322581,Osumi
+TK 3,2014,0.333333333,Osumi
+TK 3,2015,0.375,Osumi
+TK 3,2016,0.379310345,Osumi
+TK 3,2017,0.272727273,Osumi
+TK 3,2018,0.333333333,Osumi
+TK 4,2003,0,Osumi
+TK 4,2004,0.25,Osumi
+TK 4,2005,0.25,Osumi
+TK 4,2006,0.181818182,Osumi
+TK 4,2007,0.166666667,Osumi
+TK 4,2008,0.28,Osumi
+TK 4,2009,0.333333333,Osumi
+TK 4,2010,0.333333333,Osumi
+TK 4,2011,0.181818182,Osumi
+TK 4,2012,0.304347826,Osumi
+TK 4,2013,0.238095238,Osumi
+TK 4,2014,0.304347826,Osumi
+TK 4,2015,0.25,Osumi
+TK 4,2016,0.304347826,Osumi
+TK 4,2017,0.391304348,Osumi
+TK 4,2018,0.363636364,Osumi
+TK 5,2003,0,Osumi
+TK 5,2004,0.36,Osumi
+TK 5,2005,0.304347826,Osumi
+TK 5,2006,0.157894737,Osumi
+TK 5,2007,0.5,Osumi
+TK 5,2008,0.384615385,Osumi
+TK 5,2009,0.272727273,Osumi
+TK 5,2010,0.052631579,Osumi
+TK 5,2011,0.333333333,Osumi
+TK 5,2012,0.407407407,Osumi
+TK 5,2013,0.333333333,Osumi
+TK 5,2014,0.238095238,Osumi
+TK 5,2015,0.272727273,Osumi
+TK 5,2016,0.333333333,Osumi
+TK 5,2017,0.304347826,Osumi
+TK 5,2018,0.36,Osumi

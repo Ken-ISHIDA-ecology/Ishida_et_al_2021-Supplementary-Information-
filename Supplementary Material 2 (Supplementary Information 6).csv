@@ -1,0 +1,31 @@
+plot.id,year,dist,region
+IW 5,2003,0,Southern Hokkaido
+IW 5,2004,0.210526316,Southern Hokkaido
+IW 5,2005,0.282051282,Southern Hokkaido
+IW 5,2006,0.348837209,Southern Hokkaido
+IW 5,2007,0.25,Southern Hokkaido
+IW 5,2008,0.2,Southern Hokkaido
+IW 5,2009,0.157894737,Southern Hokkaido
+IW 5,2010,0.333333333,Southern Hokkaido
+IW 5,2011,0.294117647,Southern Hokkaido
+IW 5,2012,0.230769231,Southern Hokkaido
+IW 5,2013,0.189189189,Southern Hokkaido
+IW 5,2014,0.263157895,Southern Hokkaido
+IW 5,2015,0.285714286,Southern Hokkaido
+IW 5,2016,0.268292683,Southern Hokkaido
+IW 5,2018,0.3,Southern Hokkaido
+AK 2,2003,0,Rikuchu
+AK 2,2004,0.172413793,Rikuchu
+AK 2,2005,0.428571429,Rikuchu
+AK 2,2006,0.333333333,Rikuchu
+AK 2,2007,0.375,Rikuchu
+AK 2,2008,0.285714286,Rikuchu
+AK 2,2009,0.4375,Rikuchu
+AK 2,2010,0.352941176,Rikuchu
+AK 2,2011,0.333333333,Rikuchu
+AK 2,2012,0.272727273,Rikuchu
+AK 2,2013,0.411764706,Rikuchu
+AK 2,2014,0.533333333,Rikuchu
+AK 2,2015,0.379310345,Rikuchu
+AK 2,2016,0.448275862,Rikuchu
+AK 2,2018,0.538461538,Rikuchu
