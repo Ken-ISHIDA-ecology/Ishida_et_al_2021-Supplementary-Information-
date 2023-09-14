@@ -1,0 +1,176 @@
+model coefficient of trajectory,plot.id,parameter of each trajectory,region,current systems,current fluctuation
+0.01761,AP 2,Linear ż,Eastern Hokkaido,1,1
+0.01076,MB 4,Linear ż,Eastern Hokkaido,1,1
+0.0126,MB 5,Linear ż,Eastern Hokkaido,1,1
+0.01021,MC 1,Linear ż,Eastern Hokkaido,1,1
+0.01114,MC 3,Linear ż,Eastern Hokkaido,1,1
+0.01817,MZ 2,Linear ż,Eastern Hokkaido,1,1
+0.02213,MZ 4,Linear ż,Eastern Hokkaido,1,1
+0.01133,NN 3,Linear ż,Eastern Hokkaido,1,1
+0.2838,AP 3,Stable Ó1 ,Eastern Hokkaido,1,1
+0.3201,MB 1,Stable Ó1 ,Eastern Hokkaido,1,1
+0.3454,MB 3,Stable Ó1 ,Eastern Hokkaido,1,1
+0.3321,MZ 4,Stable Ó1 ,Eastern Hokkaido,1,1
+0.3437,MZ 1,Stable Ó1 ,Eastern Hokkaido,1,1
+0.2874,MZ 3,Stable Ó1 ,Eastern Hokkaido,1,1
+0.307,MZ 5,Stable Ó1 ,Eastern Hokkaido,1,1
+0.2553,NN 1,Stable Ó1 ,Eastern Hokkaido,1,1
+0.2529,NN 2,Stable Ó1 ,Eastern Hokkaido,1,1
+0.388,NN 4,Stable Ó1 ,Eastern Hokkaido,1,1
+0.5979,NN 5,Stable Ó1 ,Eastern Hokkaido,1,1
+-0.381,AP 3,Stable Ó2,Eastern Hokkaido,1,1
+-1.9581,MB 1,Stable Ó2,Eastern Hokkaido,1,1
+-0.4552,MB 3,Stable Ó2,Eastern Hokkaido,1,1
+-0.4004,MZ 4,Stable Ó2,Eastern Hokkaido,1,1
+-0.446,MZ 1,Stable Ó2,Eastern Hokkaido,1,1
+-0.6546,MZ 3,Stable Ó2,Eastern Hokkaido,1,1
+-0.5072,MZ 5,Stable Ó2,Eastern Hokkaido,1,1
+-0.7974,NN 1,Stable Ó2,Eastern Hokkaido,1,1
+-0.2646,NN 2,Stable Ó2,Eastern Hokkaido,1,1
+-0.8671,NN 4,Stable Ó2,Eastern Hokkaido,1,1
+-0.903,NN 5,Stable Ó2,Eastern Hokkaido,1,1
+0.01697,HR 4,Linear ż,Southern Hokkaido,1,2
+0.01047,SS 4,Linear ż,Southern Hokkaido,1,2
+0.00856,US 1,Linear ż,Southern Hokkaido,1,2
+0.282,ES 4,Stable Ó1 ,Southern Hokkaido,1,2
+0.33,ES 5,Stable Ó1 ,Southern Hokkaido,1,2
+0.3913,HR 1,Stable Ó1 ,Southern Hokkaido,1,2
+0.2911,HR 2,Stable Ó1 ,Southern Hokkaido,1,2
+0.2688,HR 3,Stable Ó1 ,Southern Hokkaido,1,2
+0.2807,HR 5,Stable Ó1 ,Southern Hokkaido,1,2
+0.3035,IW 1,Stable Ó1 ,Southern Hokkaido,1,2
+0.3807,IW 2,Stable Ó1 ,Southern Hokkaido,1,2
+0.3687,IW 3,Stable Ó1 ,Southern Hokkaido,1,2
+0.3003,IW 4,Stable Ó1 ,Southern Hokkaido,1,2
+0.3595,SS 5,Stable Ó1 ,Southern Hokkaido,1,2
+0.3227,US 2,Stable Ó1 ,Southern Hokkaido,1,2
+0.2919,US 3,Stable Ó1 ,Southern Hokkaido,1,2
+-0.5564,ES 4,Stable Ó2,Southern Hokkaido,1,2
+-0.6098,ES 5,Stable Ó2,Southern Hokkaido,1,2
+-1.0918,HR 1,Stable Ó2,Southern Hokkaido,1,2
+-1.075,HR 2,Stable Ó2,Southern Hokkaido,1,2
+-1.5129,HR 3,Stable Ó2,Southern Hokkaido,1,2
+-1.6295,HR 5,Stable Ó2,Southern Hokkaido,1,2
+-0.7733,IW 1,Stable Ó2,Southern Hokkaido,1,2
+-0.5811,IW 2,Stable Ó2,Southern Hokkaido,1,2
+-0.6557,IW 3,Stable Ó2,Southern Hokkaido,1,2
+-0.6571,IW 4,Stable Ó2,Southern Hokkaido,1,2
+-0.6451,SS 5,Stable Ó2,Southern Hokkaido,1,2
+-1.3548,US 2,Stable Ó2,Southern Hokkaido,1,2
+-0.7761,US 3,Stable Ó2,Southern Hokkaido,1,2
+0.4546,AG 1,Stable Ó1 ,Rikuchu,1,3
+0.4306,AG 2,Stable Ó1 ,Rikuchu,1,3
+0.5968,AG 3,Stable Ó1 ,Rikuchu,1,3
+0.5005,AG 4,Stable Ó1 ,Rikuchu,1,3
+0.5191,AG 5,Stable Ó1 ,Rikuchu,1,3
+0.4252,AK 1,Stable Ó1 ,Rikuchu,1,3
+0.4033,AK 2,Stable Ó1 ,Rikuchu,1,3
+0.5489,AK 5,Stable Ó1,Rikuchu,1,3
+0.4128,KG 1,Stable Ó1,Rikuchu,1,3
+0.4135,KG 2,Stable Ó1,Rikuchu,1,3
+0.4775,KG 3,Stable Ó1,Rikuchu,1,3
+0.4578,KG 4,Stable Ó1,Rikuchu,1,3
+0.4153,KG 5,Stable Ó1,Rikuchu,1,3
+0.4631,MJ 1,Stable Ó1,Rikuchu,1,3
+0.5986,MJ 3,Stable Ó1,Rikuchu,1,3
+0.5851,MJ 4,Stable Ó1,Rikuchu,1,3
+0.4874,MJ 5,Stable Ó1,Rikuchu,1,3
+0.4407,OR 1,Stable Ó1,Rikuchu,1,3
+0.4564,OR 2,Stable Ó1,Rikuchu,1,3
+0.4814,OR 3,Stable Ó1,Rikuchu,1,3
+0.5001,OR 4,Stable Ó1,Rikuchu,1,3
+-1.9332,AG 1,Stable Ó2,Rikuchu,1,3
+-0.3079,AG 2,Stable Ó2,Rikuchu,1,3
+-0.1628,AG 3,Stable Ó2,Rikuchu,1,3
+-0.6846,AG 4,Stable Ó2,Rikuchu,1,3
+-1.5496,AG 5,Stable Ó2,Rikuchu,1,3
+-0.6953,AK 1,Stable Ó2,Rikuchu,1,3
+-0.7889,AK 2,Stable Ó2,Rikuchu,1,3
+-0.4677,AK 5,Stable Ó2,Rikuchu,1,3
+-0.4178,KG 1,Stable Ó2,Rikuchu,1,3
+-1.6478,KG 2,Stable Ó2,Rikuchu,1,3
+-0.4775,KG 3,Stable Ó2,Rikuchu,1,3
+-0.8932,KG 4,Stable Ó2,Rikuchu,1,3
+-0.3376,KG 5,Stable Ó2,Rikuchu,1,3
+-0.461,MJ 1,Stable Ó2,Rikuchu,1,3
+-0.4092,MJ 3,Stable Ó2,Rikuchu,1,3
+-0.2502,MJ 4,Stable Ó2,Rikuchu,1,3
+-0.2442,MJ 5,Stable Ó2,Rikuchu,1,3
+-0.3986,OR 1,Stable Ó2,Rikuchu,1,3
+-0.6016,OR 2,Stable Ó2,Rikuchu,1,3
+-0.7297,OR 3,Stable Ó2,Rikuchu,1,3
+-0.3178,OR 4,Stable Ó2,Rikuchu,1,3
+0.01585,EM 4,Linear ż,Boso,0,2
+0.02236,EM 5,Linear ż,Boso,0,2
+0.006081,KM 2,Linear ż,Boso,0,2
+0.008324,MR 1,Linear ż,Boso,0,2
+0.01244,MR 3,Linear ż,Boso,0,2
+0.00643,NS 2,Linear ż,Boso,0,2
+0.01506,CK 3,Linear ż,Boso,0,2
+0.3675,CK 1,Stable Ó1 ,Boso,0,2
+0.3101,CK 2,Stable Ó1 ,Boso,0,2
+0.3706,CK 4,Stable Ó1 ,Boso,0,2
+0.3558,CK 5,Stable Ó1 ,Boso,0,2
+0.3153,EM 2,Stable Ó1 ,Boso,0,2
+0.4282,KM 1,Stable Ó1 ,Boso,0,2
+0.3651,KM 4,Stable Ó1 ,Boso,0,2
+0.4455,KM 5,Stable Ó1 ,Boso,0,2
+0.4427,MR 2,Stable Ó1 ,Boso,0,2
+0.4212,NS 3,Stable Ó1 ,Boso,0,2
+0.3538,NS 4,Stable Ó1 ,Boso,0,2
+0.4786,NS 5,Stable Ó1 ,Boso,0,2
+-0.3117,CK 1,Stable Ó2,Boso,0,2
+-1.0643,CK 2,Stable Ó2,Boso,0,2
+-0.525,CK 4,Stable Ó2,Boso,0,2
+-0.9952,CK 5,Stable Ó2,Boso,0,2
+-1.2017,EM 2,Stable Ó2,Boso,0,2
+-0.8068,KM 1,Stable Ó2,Boso,0,2
+-0.7207,KM 4,Stable Ó2,Boso,0,2
+-1.0917,KM 5,Stable Ó2,Boso,0,2
+-0.6906,MR 2,Stable Ó2,Boso,0,2
+-1.4242,NS 3,Stable Ó2,Boso,0,2
+-0.7919,NS 4,Stable Ó2,Boso,0,2
+-0.3427,NS 5,Stable Ó2,Boso,0,2
+0.02068,BN 4,Linear ż,Nanki,0,3
+0.01277,MT 1,Linear ż,Nanki,0,3
+0.02061,TD 3,Linear ż,Nanki,0,3
+0.01492,TN 1,Linear ż,Nanki,0,3
+0.3671,BN 2,Stable Ó1 ,Nanki,0,3
+0.4152,BN 5,Stable Ó1 ,Nanki,0,3
+0.4866,HC 2,Stable Ó1 ,Nanki,0,3
+0.5375,HC 5,Stable Ó1 ,Nanki,0,3
+0.3997,MT 2,Stable Ó1 ,Nanki,0,3
+0.4126,MT 4,Stable Ó1 ,Nanki,0,3
+0.4033,TD 4,Stable Ó1 ,Nanki,0,3
+0.3296,TN 2,Stable Ó1 ,Nanki,0,3
+0.4256,TN 4,Stable Ó1 ,Nanki,0,3
+0.3133,TN 5,Stable Ó1 ,Nanki,0,3
+-0.6259,BN 2,Stable Ó2,Nanki,0,3
+-1.2921,BN 5,Stable Ó2,Nanki,0,3
+-1.6104,HC 2,Stable Ó2,Nanki,0,3
+-1.3733,HC 5,Stable Ó2,Nanki,0,3
+-1.3146,MT 2,Stable Ó2,Nanki,0,3
+-0.9399,MT 4,Stable Ó2,Nanki,0,3
+-1.615,TD 4,Stable Ó2,Nanki,0,3
+-1.2618,TN 2,Stable Ó2,Nanki,0,3
+-1.3314,TN 4,Stable Ó2,Nanki,0,3
+-1.58,TN 5,Stable Ó2,Nanki,0,3
+0.006519,HZ 1,Linear ż,Osumi,0,1
+0.006288,HZ 5,Linear ż,Osumi,0,1
+0.007771,OD 5,Linear ż,Osumi,0,1
+0.006872,TJ 1,Linear ż,Osumi,0,1
+0.007558,TJ 5,Linear ż,Osumi,0,1
+0.009479,TK 2,Linear ż,Osumi,0,1
+0.01274,TK 4,Linear ż,Osumi,0,1
+0.4071,HZ 2,Stable Ó1 ,Osumi,0,1
+0.3243,HZ 4,Stable Ó1 ,Osumi,0,1
+0.3218,OD 1,Stable Ó1 ,Osumi,0,1
+0.3602,OD 3,Stable Ó1 ,Osumi,0,1
+0.5755,SD 4,Stable Ó1 ,Osumi,0,1
+0.3808,SD 5,Stable Ó1 ,Osumi,0,1
+-1.7919,HZ 2,Stable Ó2,Osumi,0,1
+-1.3088,HZ 4,Stable Ó2,Osumi,0,1
+-0.6328,OD 1,Stable Ó2,Osumi,0,1
+-0.9746,OD 3,Stable Ó2,Osumi,0,1
+-2.0732,SD 4,Stable Ó2,Osumi,0,1
+-1.6848,SD 5,Stable Ó2,Osumi,0,1
